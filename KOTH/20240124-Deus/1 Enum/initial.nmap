@@ -1,0 +1,42 @@
+# Nmap 7.94 scan initiated Wed Jan 24 19:46:26 2024 as: nmap -p- -sV -sT -o initial.nmap 10.10.17.71
+Nmap scan report for 10.10.17.71
+Host is up (0.047s latency).
+Not shown: 65509 closed tcp ports (conn-refused)
+PORT      STATE SERVICE      VERSION
+88/tcp    open  kerberos-sec Microsoft Windows Kerberos (server time: 2024-01-24 18:48:08Z)
+135/tcp   open  msrpc        Microsoft Windows RPC
+139/tcp   open  netbios-ssn  Microsoft Windows netbios-ssn
+389/tcp   open  ldap         Microsoft Windows Active Directory LDAP (Domain: kingofthe.domain, Site: Default-First-Site-Name)
+445/tcp   open  microsoft-ds
+464/tcp   open  kpasswd5?
+593/tcp   open  ncacn_http   Microsoft Windows RPC over HTTP 1.0
+636/tcp   open  tcpwrapped
+3268/tcp  open  ldap         Microsoft Windows Active Directory LDAP (Domain: kingofthe.domain, Site: Default-First-Site-Name)
+3269/tcp  open  tcpwrapped
+5985/tcp  open  http         Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+9389/tcp  open  mc-nmf       .NET Message Framing
+9999/tcp  open  http         Microsoft IIS httpd 8.5
+47001/tcp open  http         Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+49152/tcp open  msrpc        Microsoft Windows RPC
+49153/tcp open  msrpc        Microsoft Windows RPC
+49154/tcp open  msrpc        Microsoft Windows RPC
+49155/tcp open  msrpc        Microsoft Windows RPC
+49157/tcp open  ncacn_http   Microsoft Windows RPC over HTTP 1.0
+49158/tcp open  msrpc        Microsoft Windows RPC
+49159/tcp open  msrpc        Microsoft Windows RPC
+49173/tcp open  msrpc        Microsoft Windows RPC
+49176/tcp open  msrpc        Microsoft Windows RPC
+49178/tcp open  msrpc        Microsoft Windows RPC
+49192/tcp open  msrpc        Microsoft Windows RPC
+65535/tcp open  ssh          WeOnlyDo sshd 2.1.3 (protocol 2.0)
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port445-TCP:V=7.94%I=7%D=1/24%Time=65B15B6E%P=x86_64-pc-linux-gnu%r(SMB
+SF:ProgNeg,81,"\0\0\0}\xffSMBr\0\0\0\0\x88\x01@\0\0\0\0\0\0\0\0\0\0\0\0\0\
+SF:0@\x06\0\0\x01\0\x11\x07\0\x0f2\0\x01\0\x04A\0\0\0\0\x01\0\0\0\0\0\xfc\
+SF:xf3\x01\0>\x83\xb5\xdf\xf5N\xda\x01\xe0\x01\x088\0\xe4\xc3\x11\xecyf\x1
+SF:1\xd9K\0i\0n\0g\0O\0f\0T\0h\0e\0D\0o\0m\0a\0i\0n\0KiO\0F\0F\0L\0I\0N\0E
+SF:\0\0\0");
+Service Info: Host: OFFLINE; OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Wed Jan 24 19:49:04 2024 -- 1 IP address (1 host up) scanned in 158.19 seconds

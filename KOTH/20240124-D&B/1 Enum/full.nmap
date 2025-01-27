@@ -1,0 +1,22 @@
+# Nmap 7.94 scan initiated Wed Jan 24 20:41:19 2024 as: nmap -T5 -o full.nmap 10.10.20.209
+Nmap scan report for 10.10.20.209
+Host is up (0.054s latency).
+Not shown: 985 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+80/tcp   open  http
+81/tcp   open  hosts2-ns
+82/tcp   open  xfer
+88/tcp   open  kerberos-sec
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+389/tcp  open  ldap
+445/tcp  open  microsoft-ds
+464/tcp  open  kpasswd5
+593/tcp  open  http-rpc-epmap
+636/tcp  open  ldapssl
+3268/tcp open  globalcatLDAP
+3269/tcp open  globalcatLDAPssl
+3389/tcp open  ms-wbt-server
+9999/tcp open  abyss
+
+# Nmap done at Wed Jan 24 20:41:24 2024 -- 1 IP address (1 host up) scanned in 4.40 seconds

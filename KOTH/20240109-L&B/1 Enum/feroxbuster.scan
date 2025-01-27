@@ -1,0 +1,3 @@
+200      GET       20l       49w      579c http://10.10.3.91/
+301      GET        9l       28w      313c http://10.10.3.91/videogames => http://10.10.3.91/videogames/
+403      GET        9l       28w      275c http://10.10.3.91/server-status
