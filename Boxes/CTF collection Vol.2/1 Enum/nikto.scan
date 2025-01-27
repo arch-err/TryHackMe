@@ -1,0 +1,29 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.10.13.92
++ Target Hostname:    10.10.13.92
++ Target Port:        80
++ Start Time:         2024-04-05 11:56:39 (GMT2)
+---------------------------------------------------------------------------
++ Server: Apache/2.2.22 (Ubuntu)
++ /: Cookie Invited created without the httponly flag. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies
++ /: Retrieved x-powered-by header: PHP/5.3.10-1ubuntu3.26.
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: Uncommon header 'busted' found, with contents: Hey, you found me, take this Easter 6: THM{l37'5_p4r7y_h4rd}.
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ /robots.txt: Server may leak inodes via ETags, header found with file /robots.txt, inode: 918959, size: 430, mtime: Mon Jan  6 08:41:24 2020. See: http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2003-1418
++ /robots.txt: contains 1 entry which should be manually viewed. See: https://developer.mozilla.org/en-US/docs/Glossary/Robots.txt
++ /index: Uncommon header 'tcn' found, with contents: list.
++ /index: Apache mod_negotiation is enabled with MultiViews, which allows attackers to easily brute force file names. The following alternatives for 'index' were found: index.php. See: http://www.wisec.it/sectou.php?id=4698ebdc59d15,https://exchange.xforce.ibmcloud.com/vulnerabilities/8275
++ Apache/2.2.22 appears to be outdated (current is at least 2.4.57). Apache 2.2.34 is the EOL for the 2.x branch.
++ /: Web Server returns a valid response with junk HTTP methods which may cause false positives.
++ /?=PHPB8B5F2A0-3C92-11d3-A3A9-4C7B08C10000: PHP reveals potentially sensitive information via certain HTTP requests that contain specific QUERY strings. See: OSVDB-12184
++ /?=PHPE9568F36-D428-11d2-A769-00AA001ACF42: PHP reveals potentially sensitive information via certain HTTP requests that contain specific QUERY strings. See: OSVDB-12184
++ /?=PHPE9568F34-D428-11d2-A769-00AA001ACF42: PHP reveals potentially sensitive information via certain HTTP requests that contain specific QUERY strings. See: OSVDB-12184
++ /?=PHPE9568F35-D428-11d2-A769-00AA001ACF42: PHP reveals potentially sensitive information via certain HTTP requests that contain specific QUERY strings. See: OSVDB-12184
++ /login/: This might be interesting.
++ /icons/README: Apache default file found. See: https://www.vntweb.co.uk/apache-restricting-access-to-iconsreadme/
++ 8886 requests: 1 error(s) and 17 item(s) reported on remote host
++ End Time:           2024-04-05 12:13:53 (GMT2) (1034 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested

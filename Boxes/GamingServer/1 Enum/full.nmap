@@ -1,0 +1,24 @@
+# Nmap 7.94 scan initiated Sat Jan 20 11:10:29 2024 as: nmap -T5 -o full.nmap 10.10.201.41
+Warning: 10.10.201.41 giving up on port because retransmission cap hit (2).
+Nmap scan report for 10.10.201.41
+Host is up (0.057s latency).
+Not shown: 984 closed tcp ports (conn-refused)
+PORT      STATE    SERVICE
+22/tcp    open     ssh
+80/tcp    open     http
+417/tcp   filtered onmux
+427/tcp   filtered svrloc
+545/tcp   filtered ekshell
+1105/tcp  filtered ftranhc
+1719/tcp  filtered h323gatestat
+2107/tcp  filtered msmq-mgmt
+3737/tcp  filtered xpanel
+7800/tcp  filtered asr
+8007/tcp  filtered ajp12
+10025/tcp filtered unknown
+11110/tcp filtered sgi-soap
+13782/tcp filtered netbackup
+32780/tcp filtered sometimes-rpc23
+44501/tcp filtered unknown
+
+# Nmap done at Sat Jan 20 11:10:34 2024 -- 1 IP address (1 host up) scanned in 4.66 seconds

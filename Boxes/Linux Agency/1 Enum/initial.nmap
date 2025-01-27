@@ -1,0 +1,1 @@
+# Nmap 7.94 scan initiated Sat Jan 20 20:03:28 2024 as: nmap -p- -sV -sT -o initial.nmap 10.10.93.119

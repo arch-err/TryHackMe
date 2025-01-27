@@ -1,0 +1,158 @@
+301      GET        9l       28w      311c http://10.10.81.76/images => http://10.10.81.76/images/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.81.76/images (Apache)
+200      GET        5l       46w     1667c http://10.10.81.76/images/mobile-expand.png
+200      GET        3l       45w     1640c http://10.10.81.76/images/mobile-collapse.png
+200      GET      130l      665w    46485c http://10.10.81.76/images/cutting-mustache.jpg
+200      GET      160l      774w    59658c http://10.10.81.76/images/mustache8.jpg
+200      GET      121l      558w    37175c http://10.10.81.76/images/mustache4.jpg
+200      GET      409l     1056w     7674c http://10.10.81.76/custom/css/style.css
+200      GET       90l      158w     1950c http://10.10.81.76/gallery.html
+200      GET       40l       74w     1433c http://10.10.81.76/custom/js/mobile.js
+200      GET       72l      148w     1752c http://10.10.81.76/index.html
+200      GET       64l      394w     3152c http://10.10.81.76/about.html
+200      GET       94l      506w    39362c http://10.10.81.76/images/the-father.jpg
+200      GET       99l      489w    34323c http://10.10.81.76/images/the-nerd.jpg
+200      GET      447l     3714w   216173c http://10.10.81.76/images/the-beacon.jpg
+301      GET        9l       28w      311c http://10.10.81.76/custom => http://10.10.81.76/custom/
+200      GET       24l      167w    10827c http://10.10.81.76/images/icons.jpg
+200      GET        5l       57w     2469c http://10.10.81.76/images/mobile-close.png
+200      GET        3l       42w     1526c http://10.10.81.76/images/mobile-menu.png
+200      GET       48l      287w    21145c http://10.10.81.76/images/logo.jpg
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.81.76/images/icons (Apache)
+200      GET      180l      863w    62948c http://10.10.81.76/images/mustache1.jpg
+200      GET       11l       71w     2834c http://10.10.81.76/images/icons/icon-twitter.jpg
+200      GET       11l       64w     2541c http://10.10.81.76/images/icons/icon-googleplus-hover.jpg
+200      GET        6l       52w     2284c http://10.10.81.76/images/icons/icon-twitter-hover.jpg
+200      GET        8l       69w     2880c http://10.10.81.76/images/icons/icon-pinterest.jpg
+200      GET        5l       48w     1755c http://10.10.81.76/images/icons/icon-facebook-hover.jpg
+200      GET        7l       68w     2993c http://10.10.81.76/images/icons/icon-googleplus.jpg
+200      GET        6l       59w     2355c http://10.10.81.76/images/icons/icon-pinterest-hover.jpg
+200      GET        4l       56w     2305c http://10.10.81.76/images/icons/icon-facebook.jpg
+200      GET      109l      729w    61298c http://10.10.81.76/images/mustache9.jpg
+200      GET      248l      827w    54663c http://10.10.81.76/images/photographer.jpg
+200      GET      149l      708w    49100c http://10.10.81.76/images/mustache2.jpg
+200      GET      140l      622w    43497c http://10.10.81.76/images/mustache5.jpg
+200      GET      131l      639w    44676c http://10.10.81.76/images/mustache7.jpg
+200      GET      369l     1623w   106688c http://10.10.81.76/images/grew-a-mustache.jpg
+200      GET      159l     1000w    88773c http://10.10.81.76/images/mustache3.jpg
+200      GET      159l      766w    52904c http://10.10.81.76/images/the-actor.jpg
+200      GET      146l      926w    70606c http://10.10.81.76/images/in-the-country.jpg
+200      GET       83l      356w     3172c http://10.10.81.76/blog.html
+200      GET      226l      582w     3407c http://10.10.81.76/custom/css/mobile.css
+200      GET       51l      118w     1450c http://10.10.81.76/contact.html
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.81.76/custom/css/ (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.81.76/custom/ (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.81.76/custom/js/ (Apache)
+200      GET       90l      538w    38230c http://10.10.81.76/images/mustache6.jpg
+200      GET       72l      148w     1752c http://10.10.81.76/
+200      GET      243l     1101w    77164c http://10.10.81.76/images/prim-and-proper.jpg
+200      GET        1l       15w     8204c http://10.10.81.76/custom/js/users.bak
+200      GET      228l     1069w    77646c http://10.10.81.76/images/mustache-brothers.jpg
+301      GET        9l       28w      310c http://10.10.81.76/fonts => http://10.10.81.76/fonts/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.81.76/fonts (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.81.76/fonts/leckerlione (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.81.76/fonts/pollerone (Apache)
+200      GET       89l      519w    43404c http://10.10.81.76/fonts/pollerone/pollerone-webfont.woff
+200      GET      362l     1673w    60630c http://10.10.81.76/fonts/pollerone/pollerone-webfont.ttf
+200      GET      150l      871w    73893c http://10.10.81.76/fonts/leckerlione/leckerlione-regular-webfont.woff
+200      GET      237l     8774w    71643c http://10.10.81.76/fonts/pollerone/pollerone-webfont.svg
+200      GET       95l      565w    36834c http://10.10.81.76/fonts/pollerone/pollerone-webfont.eot
+200      GET      736l     2850w    98519c http://10.10.81.76/fonts/leckerlione/leckerlione-regular-webfont.ttf
+200      GET      182l      992w    65241c http://10.10.81.76/fonts/leckerlione/leckerlione-regular-webfont.eot
+200      GET     2425l    26873w   186905c http://10.10.81.76/fonts/leckerlione/leckerlione-regular-webfont.svg
+200      GET       72l      148w     1752c http://10.10.251.220/index.html
+200      GET      226l      582w     3407c http://10.10.251.220/custom/css/mobile.css
+200      GET       90l      158w     1950c http://10.10.251.220/gallery.html
+200      GET       64l      394w     3152c http://10.10.251.220/about.html
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/custom/ (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/custom/css/ (Apache)
+200      GET       99l      489w    34323c http://10.10.251.220/images/the-nerd.jpg
+200      GET       83l      356w     3172c http://10.10.251.220/blog.html
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/custom/js/ (Apache)
+200      GET      409l     1056w     7674c http://10.10.251.220/custom/css/style.css
+200      GET       40l       74w     1433c http://10.10.251.220/custom/js/mobile.js
+200      GET        1l       15w     8204c http://10.10.251.220/custom/js/users.bak
+200      GET      447l     3714w   216173c http://10.10.251.220/images/the-beacon.jpg
+200      GET      159l      766w    52904c http://10.10.251.220/images/the-actor.jpg
+200      GET       48l      287w    21145c http://10.10.251.220/images/logo.jpg
+200      GET       51l      118w     1450c http://10.10.251.220/contact.html
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/images/ (Apache)
+200      GET        3l       42w     1526c http://10.10.251.220/images/mobile-menu.png
+200      GET        5l       57w     2469c http://10.10.251.220/images/mobile-close.png
+200      GET        5l       46w     1667c http://10.10.251.220/images/mobile-expand.png
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/images/icons (Apache)
+200      GET      140l      622w    43497c http://10.10.251.220/images/mustache5.jpg
+200      GET       94l      506w    39362c http://10.10.251.220/images/the-father.jpg
+200      GET      131l      639w    44676c http://10.10.251.220/images/mustache7.jpg
+200      GET       90l      538w    38230c http://10.10.251.220/images/mustache6.jpg
+200      GET      121l      558w    37175c http://10.10.251.220/images/mustache4.jpg
+200      GET       11l       71w     2834c http://10.10.251.220/images/icons/icon-twitter.jpg
+200      GET        6l       52w     2284c http://10.10.251.220/images/icons/icon-twitter-hover.jpg
+200      GET       11l       64w     2541c http://10.10.251.220/images/icons/icon-googleplus-hover.jpg
+200      GET        6l       59w     2355c http://10.10.251.220/images/icons/icon-pinterest-hover.jpg
+200      GET        4l       56w     2305c http://10.10.251.220/images/icons/icon-facebook.jpg
+200      GET      149l      708w    49100c http://10.10.251.220/images/mustache2.jpg
+200      GET      160l      774w    59658c http://10.10.251.220/images/mustache8.jpg
+200      GET        5l       48w     1755c http://10.10.251.220/images/icons/icon-facebook-hover.jpg
+200      GET        7l       68w     2993c http://10.10.251.220/images/icons/icon-googleplus.jpg
+200      GET        8l       69w     2880c http://10.10.251.220/images/icons/icon-pinterest.jpg
+200      GET      369l     1623w   106688c http://10.10.251.220/images/grew-a-mustache.jpg
+200      GET      180l      863w    62948c http://10.10.251.220/images/mustache1.jpg
+200      GET      109l      729w    61298c http://10.10.251.220/images/mustache9.jpg
+200      GET      243l     1101w    77164c http://10.10.251.220/images/prim-and-proper.jpg
+200      GET      146l      926w    70606c http://10.10.251.220/images/in-the-country.jpg
+200      GET      130l      665w    46485c http://10.10.251.220/images/cutting-mustache.jpg
+200      GET       24l      167w    10827c http://10.10.251.220/images/icons.jpg
+200      GET        3l       45w     1640c http://10.10.251.220/images/mobile-collapse.png
+200      GET       72l      148w     1752c http://10.10.251.220/
+200      GET      159l     1000w    88773c http://10.10.251.220/images/mustache3.jpg
+200      GET      248l      827w    54663c http://10.10.251.220/images/photographer.jpg
+200      GET      228l     1069w    77646c http://10.10.251.220/images/mustache-brothers.jpg
+200      GET       90l      158w     1950c http://10.10.251.220/gallery.html
+200      GET      409l     1056w     7674c http://10.10.251.220/custom/css/style.css
+200      GET       72l      148w     1752c http://10.10.251.220/index.html
+200      GET       48l      287w    21145c http://10.10.251.220/images/logo.jpg
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/custom/ (Apache)
+200      GET       94l      506w    39362c http://10.10.251.220/images/the-father.jpg
+200      GET       99l      489w    34323c http://10.10.251.220/images/the-nerd.jpg
+200      GET      159l      766w    52904c http://10.10.251.220/images/the-actor.jpg
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/custom/js (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/custom/css (Apache)
+200      GET        1l       15w     8204c http://10.10.251.220/custom/js/users.bak
+200      GET       40l       74w     1433c http://10.10.251.220/custom/js/mobile.js
+200      GET      226l      582w     3407c http://10.10.251.220/custom/css/mobile.css
+200      GET      447l     3714w   216173c http://10.10.251.220/images/the-beacon.jpg
+200      GET       83l      356w     3172c http://10.10.251.220/blog.html
+200      GET       64l      394w     3152c http://10.10.251.220/about.html
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/images/ (Apache)
+200      GET        5l       46w     1667c http://10.10.251.220/images/mobile-expand.png
+200      GET        5l       57w     2469c http://10.10.251.220/images/mobile-close.png
+200      GET        3l       42w     1526c http://10.10.251.220/images/mobile-menu.png
+200      GET        3l       45w     1640c http://10.10.251.220/images/mobile-collapse.png
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.251.220/images/icons (Apache)
+200      GET      140l      622w    43497c http://10.10.251.220/images/mustache5.jpg
+200      GET      121l      558w    37175c http://10.10.251.220/images/mustache4.jpg
+200      GET      160l      774w    59658c http://10.10.251.220/images/mustache8.jpg
+200      GET        8l       69w     2880c http://10.10.251.220/images/icons/icon-pinterest.jpg
+200      GET        5l       48w     1755c http://10.10.251.220/images/icons/icon-facebook-hover.jpg
+200      GET        7l       68w     2993c http://10.10.251.220/images/icons/icon-googleplus.jpg
+200      GET        4l       56w     2305c http://10.10.251.220/images/icons/icon-facebook.jpg
+200      GET        6l       52w     2284c http://10.10.251.220/images/icons/icon-twitter-hover.jpg
+200      GET       11l       64w     2541c http://10.10.251.220/images/icons/icon-googleplus-hover.jpg
+200      GET      130l      665w    46485c http://10.10.251.220/images/cutting-mustache.jpg
+200      GET      131l      639w    44676c http://10.10.251.220/images/mustache7.jpg
+200      GET      149l      708w    49100c http://10.10.251.220/images/mustache2.jpg
+200      GET      243l     1101w    77164c http://10.10.251.220/images/prim-and-proper.jpg
+200      GET      146l      926w    70606c http://10.10.251.220/images/in-the-country.jpg
+200      GET      159l     1000w    88773c http://10.10.251.220/images/mustache3.jpg
+200      GET      248l      827w    54663c http://10.10.251.220/images/photographer.jpg
+200      GET      228l     1069w    77646c http://10.10.251.220/images/mustache-brothers.jpg
+200      GET       51l      118w     1450c http://10.10.251.220/contact.html
+200      GET       24l      167w    10827c http://10.10.251.220/images/icons.jpg
+200      GET      369l     1623w   106688c http://10.10.251.220/images/grew-a-mustache.jpg
+200      GET      180l      863w    62948c http://10.10.251.220/images/mustache1.jpg
+200      GET       90l      538w    38230c http://10.10.251.220/images/mustache6.jpg
+200      GET       72l      148w     1752c http://10.10.251.220/
+200      GET      109l      729w    61298c http://10.10.251.220/images/mustache9.jpg
+200      GET        6l       59w     2355c http://10.10.251.220/images/icons/icon-pinterest-hover.jpg
+200      GET       11l       71w     2834c http://10.10.251.220/images/icons/icon-twitter.jpg

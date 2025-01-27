@@ -1,0 +1,5 @@
+Hi Mat,
+
+I've set up your sudo rights to use the python script as my user. You can only run the script with sudo so it should be safe.
+
+Will

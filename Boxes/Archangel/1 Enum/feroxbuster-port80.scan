@@ -1,0 +1,10 @@
+301      GET        9l       28w      310c http://10.10.23.14/pages => http://10.10.23.14/pages/
+301      GET        9l       28w      311c http://10.10.23.14/images => http://10.10.23.14/images/
+301      GET        9l       28w      310c http://10.10.23.14/flags => http://10.10.23.14/flags/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.23.14/flags (Apache)
+200      GET        1l        5w       93c http://10.10.23.14/flags/flag.html
+200      GET      320l     1270w    19188c http://10.10.23.14/
+200      GET      232l      727w    13209c http://10.10.23.14/pages/gallery.html
+301      GET        9l       28w      316c http://10.10.23.14/images/demo => http://10.10.23.14/images/demo/
+301      GET        9l       28w      324c http://10.10.23.14/images/demo/gallery => http://10.10.23.14/images/demo/gallery/
+301      GET        9l       28w      328c http://10.10.23.14/images/demo/backgrounds => http://10.10.23.14/images/demo/backgrounds/

@@ -1,0 +1,5 @@
+/** MySQL database username */
+define('DB_USER', 'c0ldd');
+
+/** MySQL database password */
+define('DB_PASSWORD', 'cybersecurity');

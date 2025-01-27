@@ -1,0 +1,9 @@
+Starting Nmap 7.94 ( https://nmap.org ) at 2024-02-01 13:22 CET
+Nmap scan report for 10.10.63.132
+Host is up (0.049s latency).
+
+PORT     STATE    SERVICE VERSION
+1000/tcp filtered cadlock
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 0.81 seconds

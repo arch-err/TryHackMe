@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /flag_1.txt
+Allow: /secret_file_do_not_read.txt

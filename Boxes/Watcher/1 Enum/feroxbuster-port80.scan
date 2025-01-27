@@ -1,0 +1,18 @@
+200      GET        1l        1w       35c http://10.10.254.180/flag_1.txt
+403      GET        9l       28w      278c http://10.10.254.180/secret_file_do_not_read.txt
+200      GET       83l      176w     2422c http://10.10.254.180/post.php
+200      GET      134l      343w     4826c http://10.10.254.180/
+301      GET        9l       28w      312c http://10.10.254.180/css => http://10.10.254.180/css/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.254.180/css (Apache)
+200      GET        7l     2103w   160393c http://10.10.254.180/css/bootstrap.min.css
+403      GET        9l       28w      278c http://10.10.254.180/secret_file_do_not_read.txt
+200      GET        1l        1w       35c http://10.10.254.180/flag_1.txt
+200      GET       83l      176w     2422c http://10.10.254.180/post.php
+200      GET       99l      574w    44772c http://10.10.254.180/images/placemat3.jpg
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.254.180/css/ (Apache)
+200      GET      242l     1452w   109868c http://10.10.254.180/images/placemat1.jpg
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.254.180/images/ (Apache)
+200      GET      293l     1646w   117665c http://10.10.254.180/images/placemat2.jpg
+200      GET        7l     2103w   160393c http://10.10.254.180/css/bootstrap.min.css
+200      GET      134l      343w     4826c http://10.10.254.180/
+200      GET        1l    49074w   646986c http://10.10.254.180/css/bootstrap.min.css.map

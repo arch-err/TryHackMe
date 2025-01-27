@@ -1,0 +1,48 @@
+200      GET       15l       74w     3338c http://10.10.63.132/icons/ubuntu-logo.png
+200      GET      375l      968w    11321c http://10.10.63.132/
+403      GET       11l       32w      293c http://10.10.63.132/icons/
+301      GET        9l       28w      318c http://10.10.63.132/icons/small => http://10.10.63.132/icons/small/
+200      GET      166l      644w     5108c http://10.10.63.132/icons/README
+301      GET        9l       28w      313c http://10.10.63.132/simple => http://10.10.63.132/simple/
+200      GET       15l       74w     3338c http://10.10.63.132/icons/ubuntu-logo.png
+200      GET      375l      968w    11321c http://10.10.63.132/
+403      GET       11l       32w      293c http://10.10.63.132/icons/
+301      GET        9l       28w      318c http://10.10.63.132/icons/small => http://10.10.63.132/icons/small/
+200      GET      166l      644w     5108c http://10.10.63.132/icons/README
+301      GET        9l       28w      313c http://10.10.63.132/simple => http://10.10.63.132/simple/
+301      GET        9l       28w      321c http://10.10.63.132/simple/modules => http://10.10.63.132/simple/modules/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.63.132/simple/modules (Apache)
+301      GET        9l       28w      321c http://10.10.63.132/simple/uploads => http://10.10.63.132/simple/uploads/
+301      GET        9l       28w      339c http://10.10.63.132/simple/modules/CMSContentManager => http://10.10.63.132/simple/modules/CMSContentManager/
+301      GET        9l       28w      328c http://10.10.63.132/simple/modules/Search => http://10.10.63.132/simple/modules/Search/
+301      GET        9l       28w      349c http://10.10.63.132/simple/modules/CMSContentManager/templates => http://10.10.63.132/simple/modules/CMSContentManager/templates/
+301      GET        9l       28w      335c http://10.10.63.132/simple/modules/ModuleManager => http://10.10.63.132/simple/modules/ModuleManager/
+301      GET        9l       28w      346c http://10.10.63.132/simple/modules/CMSContentManager/images => http://10.10.63.132/simple/modules/CMSContentManager/images/
+301      GET        9l       28w      339c http://10.10.63.132/simple/modules/FileManager/icons => http://10.10.63.132/simple/modules/FileManager/icons/
+301      GET        9l       28w      338c http://10.10.63.132/simple/modules/Search/templates => http://10.10.63.132/simple/modules/Search/templates/
+301      GET        9l       28w      343c http://10.10.63.132/simple/modules/CMSContentManager/doc => http://10.10.63.132/simple/modules/CMSContentManager/doc/
+301      GET        9l       28w      345c http://10.10.63.132/simple/modules/ModuleManager/templates => http://10.10.63.132/simple/modules/ModuleManager/templates/
+301      GET        9l       28w      340c http://10.10.63.132/simple/modules/ModuleManager/docs => http://10.10.63.132/simple/modules/ModuleManager/docs/
+301      GET        9l       28w      343c http://10.10.63.132/simple/modules/FileManager/templates => http://10.10.63.132/simple/modules/FileManager/templates/
+301      GET        9l       28w      342c http://10.10.63.132/simple/modules/ModuleManager/images => http://10.10.63.132/simple/modules/ModuleManager/images/
+301      GET        9l       28w      319c http://10.10.63.132/simple/admin => http://10.10.63.132/simple/admin/
+301      GET        9l       28w      340c http://10.10.63.132/simple/modules/FileManager/images => http://10.10.63.132/simple/modules/FileManager/images/
+301      GET        9l       28w      326c http://10.10.63.132/simple/admin/themes => http://10.10.63.132/simple/admin/themes/
+301      GET        9l       28w      329c http://10.10.63.132/simple/admin/templates => http://10.10.63.132/simple/admin/templates/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.63.132/simple/admin/themes (Apache)
+301      GET        9l       28w      320c http://10.10.63.132/simple/assets => http://10.10.63.132/simple/assets/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.63.132/simple/assets (Apache)
+301      GET        9l       28w      343c http://10.10.63.132/simple/modules/CMSContentManager/lib => http://10.10.63.132/simple/modules/CMSContentManager/lib/
+301      GET        9l       28w      337c http://10.10.63.132/simple/modules/FileManager/lib => http://10.10.63.132/simple/modules/FileManager/lib/
+301      GET        9l       28w      339c http://10.10.63.132/simple/modules/ModuleManager/lib => http://10.10.63.132/simple/modules/ModuleManager/lib/
+301      GET        9l       28w      327c http://10.10.63.132/simple/admin/plugins => http://10.10.63.132/simple/admin/plugins/
+301      GET        9l       28w      328c http://10.10.63.132/simple/assets/configs => http://10.10.63.132/simple/assets/configs/
+301      GET        9l       28w      334c http://10.10.63.132/simple/assets/module_custom => http://10.10.63.132/simple/assets/module_custom/
+301      GET        9l       28w      327c http://10.10.63.132/simple/assets/images => http://10.10.63.132/simple/assets/images/
+301      GET        9l       28w      336c http://10.10.63.132/simple/modules/FileManager/js => http://10.10.63.132/simple/modules/FileManager/js/
+301      GET        9l       28w      333c http://10.10.63.132/simple/assets/admin_custom => http://10.10.63.132/simple/assets/admin_custom/
+301      GET        9l       28w      330c http://10.10.63.132/simple/assets/templates => http://10.10.63.132/simple/assets/templates/
+301      GET        9l       28w      333c http://10.10.63.132/simple/modules/FileManager => http://10.10.63.132/simple/modules/FileManager/
+301      GET        9l       28w      335c http://10.10.63.132/simple/modules/Search/images => http://10.10.63.132/simple/modules/Search/images/
+301      GET        9l       28w      328c http://10.10.63.132/simple/uploads/images => http://10.10.63.132/simple/uploads/images/
+301      GET        9l       28w      317c http://10.10.63.132/simple/doc => http://10.10.63.132/simple/doc/

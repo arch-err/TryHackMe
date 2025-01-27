@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+export IP='10.10.254.180'
+# export <++>='<++>'
+# export <++>='<++>'
+# export <++>='<++>'
+# export <++>='<++>'
+# export <++>='<++>'

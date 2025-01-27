@@ -1,0 +1,12 @@
+200      GET      334l     2089w   180418c http://10.10.148.255/iisstart.png
+200      GET       32l       55w      703c http://10.10.148.255/
+404      GET       40l      156w     1892c http://10.10.148.255/a%5c.aspx
+400      GET        6l       26w      324c http://10.10.148.255/%NETHOOD%/
+200      GET      334l     2089w   180418c http://10.10.148.255/iisstart.png
+200      GET       32l       55w      703c http://10.10.148.255/
+400      GET       80l      276w     3420c http://10.10.148.255/~/%3Cscript%3Ealert('XSS')%3C/script%3E.aspx
+400      GET       80l      276w     3420c http://10.10.148.255/%3Cscript%3Ealert('XSS')%3C/script%3E.aspx
+404      GET       40l      156w     1889c http://10.10.148.255/aux/
+404      GET       40l      156w     1889c http://10.10.148.255/con/
+404      GET       40l      156w     1893c http://10.10.148.255/aux.aspx
+404      GET       40l      156w     1893c http://10.10.148.255/con.aspx

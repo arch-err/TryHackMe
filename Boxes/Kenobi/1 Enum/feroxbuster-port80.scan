@@ -1,0 +1,6 @@
+200      GET       18l       21w      200c http://10.10.173.179/admin.html
+200      GET      866l     4178w   386659c http://10.10.173.179/image.jpg
+200      GET       18l       21w      200c http://10.10.173.179/
+200      GET       18l       21w      200c http://10.10.173.179/admin.html
+200      GET      866l     4178w   386659c http://10.10.173.179/image.jpg
+200      GET       18l       21w      200c http://10.10.173.179/

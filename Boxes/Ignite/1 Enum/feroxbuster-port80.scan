@@ -1,0 +1,6 @@
+301      GET        9l       28w      313c http://10.10.230.218/fuel => http://10.10.230.218/fuel/
+403      GET       11l       32w      300c http://10.10.230.218/fuel/scripts
+302      GET        0l        0w        0c http://10.10.230.218/fuel/users => http://10.10.230.218/fuel/login/5a6e566c624339316332567963773d3d
+302      GET        0l        0w        0c http://10.10.230.218/fuel/categories => http://10.10.230.218/fuel/login/5a6e566c6243396a5958526c5a3239796157567a
+302      GET        0l        0w        0c http://10.10.230.218/fuel/assets => http://10.10.230.218/fuel/login/5a6e566c6243396863334e6c64484d3d
+302      GET        0l        0w        0c http://10.10.230.218/fuel/logout => http://10.10.230.218/

@@ -1,0 +1,21 @@
+200      GET       77l      316w     2762c http://10.10.201.41/index.html
+200      GET      768l     3870w   166291c http://10.10.201.41/featured-character.jpg
+200      GET       62l      379w     3067c http://10.10.201.41/myths.html
+200      GET       66l      119w     1435c http://10.10.201.41/about.html
+200      GET      222l     1251w    48757c http://10.10.201.41/logo.png
+200      GET       77l      316w     2762c http://10.10.201.41/
+301      GET        9l       28w      314c http://10.10.201.41/uploads => http://10.10.201.41/uploads/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.201.41/uploads (Apache)
+200      GET       63l      544w     3070c http://10.10.201.41/uploads/manifesto.txt
+200      GET       77l      343w    15457c http://10.10.201.41/uploads/meme.jpg
+200      GET      222l      221w     2006c http://10.10.201.41/uploads/dict.lst
+301      GET        9l       28w      313c http://10.10.201.41/secret => http://10.10.201.41/secret/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.201.41/secret (Apache)
+200      GET       30l       37w     1766c http://10.10.201.41/secret/secretKey
+403      GET        9l       28w      277c http://10.10.201.41/server-status
+200      GET       77l      316w     2762c http://10.10.201.41/index.html
+200      GET       66l      119w     1435c http://10.10.201.41/about.html
+200      GET      768l     3870w   166291c http://10.10.201.41/featured-character.jpg
+200      GET       62l      379w     3067c http://10.10.201.41/myths.html
+200      GET      222l     1251w    48757c http://10.10.201.41/logo.png
+200      GET       77l      316w     2762c http://10.10.201.41/

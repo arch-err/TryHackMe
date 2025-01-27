@@ -1,0 +1,170 @@
+200      GET       15l       74w     3338c http://10.10.33.197/icons/ubuntu-logo.png
+301      GET        9l       28w      314c http://10.10.33.197/content => http://10.10.33.197/content/
+200      GET      375l      968w    11321c http://10.10.33.197/
+301      GET        9l       28w      321c http://10.10.33.197/content/images => http://10.10.33.197/content/images/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/images (Apache)
+301      GET        9l       28w      317c http://10.10.33.197/content/js => http://10.10.33.197/content/js/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/js (Apache)
+200      GET     1834l     4283w    52263c http://10.10.33.197/content/js/SweetRice.js
+200      GET       55l      101w     1054c http://10.10.33.197/content/js/function.js
+200      GET       18l       58w     2156c http://10.10.33.197/content/images/loading.gif
+200      GET       12l       25w      225c http://10.10.33.197/content/js/init.js
+200      GET       61l      277w    14699c http://10.10.33.197/content/images/sweetrice.jpg
+200      GET        7l       31w     1355c http://10.10.33.197/content/images/sweetrice_icon.png
+200      GET        5l       26w      791c http://10.10.33.197/content/images/xmlrss.png
+200      GET     1416l     4776w    41204c http://10.10.33.197/content/js/excanvas.compiled.js
+200      GET       35l       81w      910c http://10.10.33.197/content/js/pins.js
+200      GET        6l       31w     1422c http://10.10.33.197/content/images/captcha.php
+200      GET      109l      187w     3016c http://10.10.33.197/content/images/sitemap.xsl
+200      GET        1l        6w     1150c http://10.10.33.197/content/images/favicon.ico
+200      GET       38l      217w     9678c http://10.10.33.197/content/images/sweetrice.png
+200      GET       22l      118w     4493c http://10.10.33.197/content/images/action_icon.png
+200      GET       12l       42w      847c http://10.10.33.197/content/images/ajax-loader.gif
+301      GET        9l       28w      318c http://10.10.33.197/icons/small => http://10.10.33.197/icons/small/
+200      GET        3l        5w      201c http://10.10.33.197/content/images/header_background.png
+200      GET       50l      205w    10194c http://10.10.33.197/content/images/logo.png
+200      GET        3l        8w      299c http://10.10.33.197/content/images/captcha.png
+200      GET      166l      644w     5108c http://10.10.33.197/icons/README
+301      GET        9l       28w      318c http://10.10.33.197/content/inc => http://10.10.33.197/content/inc/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/inc (Apache)
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/404.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/install.lock.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/rssfeed_category.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/inc/font (Apache)
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/error_report.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/inc/cache (Apache)
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_entry.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/inc/lang (Apache)
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/init.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/lang/en-us.php
+200      GET        1l        8w     8192c http://10.10.33.197/content/inc/cache/cache.db
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_theme.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/lang/zh-cn.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/alert.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/inc/mysql_backup (Apache)
+200      GET        5l       14w      137c http://10.10.33.197/content/inc/htaccess.txt
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/lang/big5.php
+200      GET      102l      527w     4809c http://10.10.33.197/content/inc/mysql_backup/mysql_bakup_20191129023059-1.5.1.sql
+200      GET        1l        1w        5c http://10.10.33.197/content/inc/lastest.txt
+200      GET     3750l    17676w   367112c http://10.10.33.197/content/inc/font/arial.ttf
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/close_tip.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_category.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_lang.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_tags.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/rssfeed_entry.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_sitemap.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/sitemap_xml.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_attachment.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_rssfeed.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_ads.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_comment.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/rssfeed.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/db.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/function.php
+200      GET        0l        0w        0c http://10.10.33.197/content/inc/do_home.php
+301      GET        9l       28w      317c http://10.10.33.197/content/as => http://10.10.33.197/content/as/
+301      GET        9l       28w      322c http://10.10.33.197/content/_themes => http://10.10.33.197/content/_themes/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/_themes (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/_themes/default (Apache)
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/sitemap.php
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/tags.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/attachment (Apache)
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/entry.php
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/sidebar.php
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/comment_form.php
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/show_comment.php
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/cat.php
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/main.php
+200      GET       11l       11w      204c http://10.10.33.197/content/_themes/default/theme.config
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/form.php
+301      GET        9l       28w      321c http://10.10.33.197/content/as/lib => http://10.10.33.197/content/as/lib/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/as/lib (Apache)
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_permalinks.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/cat_insert.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_link.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/permalinks_system.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/db_to_sqlite.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/install_form.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/pgsql_backup.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/transfer_website.php
+301      GET        9l       28w      320c http://10.10.33.197/content/as/js => http://10.10.33.197/content/as/js/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.33.197/content/as/js (Apache)
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/db_converter.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/media_center.php
+200      GET       86l      169w     2573c http://10.10.33.197/content/as/js/dashboard.js
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/attachment.php
+200      GET       38l       57w      645c http://10.10.33.197/content/as/js/function.js
+200      GET       79l      150w     2312c http://10.10.33.197/content/as/js/media_center.js
+200      GET      125l      292w     2840c http://10.10.33.197/content/as/js/BodySort.js
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_sitemap.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/foot.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/sitemap.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/timezone.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_image.php
+301      GET        9l       28w      325c http://10.10.33.197/content/attachment => http://10.10.33.197/content/attachment/
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/post_insert.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/sqlite_backup.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_urlredirect.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_main.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/theme.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/comment.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_update.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/media.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/post.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_htaccess.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_media.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/main.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/update.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/db_to_pgsql.php
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/foot.php
+200      GET        0l        0w        0c http://10.10.33.197/content/_themes/default/head.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_data.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/view_track.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_theme.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/license.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/permalinks_custom.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/custom_field.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_setting.php
+200      GET      471l     2893w    43328c http://10.10.33.197/content/as/lib/license.txt
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/information.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/db_import.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/htaccess.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/head.php
+200      GET      101l      375w     2852c http://10.10.33.197/content/as/lib/app_pgsql.sql
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_plugin.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_plugins.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_track.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/url_redirect.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_category.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/forgot_password.php
+500      GET        0l        0w        0c http://10.10.33.197/content/as/lib/db_to_mysql.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/reset_password.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/db_sqlexecute.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_post.php
+200      GET       88l      248w     2054c http://10.10.33.197/content/as/lib/app_sqlite.sql
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_attachment.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/category.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/install.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_comment.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_ad.php
+200      GET      107l      445w     3391c http://10.10.33.197/content/as/lib/app.sql
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/db_backup.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/db_optimizer.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/site_modify.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/ad.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/function.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/auth_form.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_media_center.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_password.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/tinymce.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/site_list.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/mysql_backup.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/view_comment.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/link.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/permalinks_custom_modify.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/site.php
+200      GET        0l        0w        0c http://10.10.33.197/content/as/lib/do_sites.php
+403      GET        9l       28w      277c http://10.10.33.197/server-status
+200      GET       15l       74w     3338c http://10.10.33.197/icons/ubuntu-logo.png
+200      GET      375l      968w    11321c http://10.10.33.197/
+403      GET        9l       28w      277c http://10.10.33.197/icons/

@@ -1,0 +1,14 @@
+200      GET       20l      113w      808c http://10.10.32.66/
+301      GET        9l       28w      310c http://10.10.32.66/files => http://10.10.32.66/files/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.32.66/files (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.32.66/files/ftp (Apache)
+200      GET      728l     5285w   461820c http://10.10.32.66/files/important.jpg
+200      GET        1l       40w      208c http://10.10.32.66/files/notice.txt
+200      GET       20l      113w      808c http://10.10.32.66/
+200      GET       20l      113w      808c http://10.10.32.66/
+301      GET        9l       28w      310c http://10.10.32.66/files => http://10.10.32.66/files/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.32.66/files (Apache)
+200      GET        1l       40w      208c http://10.10.32.66/files/notice.txt
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.32.66/files/ftp (Apache)
+200      GET      728l     5285w   461820c http://10.10.32.66/files/important.jpg
+200      GET       20l      113w      808c http://10.10.32.66/

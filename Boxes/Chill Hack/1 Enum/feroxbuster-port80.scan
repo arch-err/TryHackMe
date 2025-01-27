@@ -1,0 +1,189 @@
+301      GET        9l       28w      309c http://10.10.9.70/images => http://10.10.9.70/images/
+200      GET        6l       87w     3886c http://10.10.9.70/images/img-03_002.png
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/images (Apache)
+200      GET      331l      961w    19718c http://10.10.9.70/news.html
+200      GET      109l      443w    37068c http://10.10.9.70/images/img-1-4.jpg
+200      GET       14l       82w     4153c http://10.10.9.70/images/img-07_002.png
+200      GET      338l     1094w    21339c http://10.10.9.70/about.html
+200      GET       12l       92w     4417c http://10.10.9.70/images/img-08.png
+200      GET      644l     1718w    35184c http://10.10.9.70/index.html
+200      GET      307l      818w    18301c http://10.10.9.70/contact.html
+200      GET       10l      116w     8509c http://10.10.9.70/images/img-08_002.png
+200      GET       13l      104w     5452c http://10.10.9.70/images/logo.png
+200      GET     2031l     4527w    42478c http://10.10.9.70/css/custom.css
+200      GET      841l     5737w   195294c http://10.10.9.70/images/loading-img.gif
+200      GET      739l     4309w   356920c http://10.10.9.70/images/img-03_002.jpg
+200      GET      782l     4239w   337738c http://10.10.9.70/images/img-06.jpg
+200      GET       45l      331w    28476c http://10.10.9.70/images/img-04.png
+200      GET      197l     1069w    99230c http://10.10.9.70/images/img-05_002.jpg
+200      GET      404l     2295w   203261c http://10.10.9.70/images/img-02_002.jpg
+200      GET     1145l     6741w   560143c http://10.10.9.70/images/c.png
+200      GET     2247l    12799w  1079277c http://10.10.9.70/images/img-07.jpg
+200      GET     1773l     9893w   856786c http://10.10.9.70/images/bg1.jpg
+200      GET       39l      258w    17960c http://10.10.9.70/images/img-05_003.png
+200      GET     2441l    12116w   971542c http://10.10.9.70/images/img-03_003.jpg
+200      GET        9l       89w     5372c http://10.10.9.70/images/footer-logo.png
+200      GET     2435l    13929w  1112060c http://10.10.9.70/images/banner-layer-1.png
+200      GET      123l      484w    39337c http://10.10.9.70/images/img-1-2.jpg
+200      GET      543l     2910w   240250c http://10.10.9.70/images/img-08.jpg
+200      GET     2247l    12694w  1034216c http://10.10.9.70/images/post2.png
+200      GET       42l      241w    18053c http://10.10.9.70/images/img-01_003.png
+200      GET      576l     3403w   290980c http://10.10.9.70/images/img-04.jpg
+200      GET        9l       74w     4151c http://10.10.9.70/images/img-06.png
+200      GET       35l      179w     5340c http://10.10.9.70/images/ajax-loader.gif
+301      GET        9l       28w      306c http://10.10.9.70/css => http://10.10.9.70/css/
+200      GET      236l     1052w    95305c http://10.10.9.70/images/img-03.jpg
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/images/new_img (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/css (Apache)
+200      GET       45l      331w    28476c http://10.10.9.70/images/new_img/7-98x98.png
+200      GET       51l      319w    27394c http://10.10.9.70/images/new_img/5-98x98.png
+200      GET      129l      841w    63244c http://10.10.9.70/images/new_img/62.jpg
+200      GET       72l      375w    32125c http://10.10.9.70/images/new_img/6-98x98.png
+200      GET      219l     1487w   108851c http://10.10.9.70/images/new_img/5.jpg
+200      GET      158l      574w    53953c http://10.10.9.70/images/new_img/33.jpg
+200      GET      187l      333w     3302c http://10.10.9.70/css/owl.carousel.css
+200      GET       71l      192w     1644c http://10.10.9.70/css/3dslider.css
+200      GET       78l      296w     3136c http://10.10.9.70/css/flaticon.css
+200      GET      364l      832w     8925c http://10.10.9.70/css/responsive.css
+200      GET      587l     2043w    26132c http://10.10.9.70/css/bootstrap-theme.css
+200      GET      131l      830w    67837c http://10.10.9.70/images/new_img/82.jpg
+200      GET      165l      998w    81220c http://10.10.9.70/images/new_img/111.jpg
+200      GET      170l      837w    19888c http://10.10.9.70/css/prettyPhoto.css
+200      GET        1l     1557w    25648c http://10.10.9.70/css/bootstrap-theme.min.css.map
+200      GET     2199l     3720w    35134c http://10.10.9.70/css/font-awesome.css
+200      GET        4l       66w    29063c http://10.10.9.70/css/font-awesome.min.css
+200      GET        6l      567w    23409c http://10.10.9.70/css/bootstrap-theme.min.css
+200      GET     6757l    16077w   146010c http://10.10.9.70/css/bootstrap.css
+200      GET        1l     3057w    47706c http://10.10.9.70/css/bootstrap-theme.css.map
+200      GET        1l      478w    56693c http://10.10.9.70/css/animate.css
+200      GET      568l     3028w   224375c http://10.10.9.70/images/new_img/8.jpg
+200      GET     8819l    52090w  4362798c http://10.10.9.70/images/sport-mate.png
+200      GET       10l       71w     2700c http://10.10.9.70/images/img-05.png
+200      GET       37l      291w    23080c http://10.10.9.70/images/phonebg.png
+200      GET      182l      875w    73539c http://10.10.9.70/images/img-01.jpg
+200      GET      131l      780w    58299c http://10.10.9.70/images/profile-img2.png
+200      GET        1l    29750w   389287c http://10.10.9.70/css/bootstrap.css.map
+200      GET      593l     3587w   309111c http://10.10.9.70/images/new_img/img1.jpg
+200      GET        1l    42555w   542194c http://10.10.9.70/css/bootstrap.min.css.map
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/images/prettyphoto (Apache)
+200      GET     1174l     6391w   478098c http://10.10.9.70/images/cyling.jpg
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/images/prettyphoto/dark_square (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/images/prettyphoto/facebook (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/images/prettyphoto/dark_rounded (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/images/prettyphoto/default (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/images/prettyphoto/light_square (Apache)
+200      GET        6l     1429w   121200c http://10.10.9.70/css/bootstrap.min.css
+200      GET      744l     4069w   323847c http://10.10.9.70/images/new_img/1.jpg
+200      GET        3l        8w      181c http://10.10.9.70/images/prettyphoto/facebook/contentPatternTop.png
+200      GET        1l        5w      376c http://10.10.9.70/images/prettyphoto/dark_square/default_thumbnail.gif
+200      GET        7l       25w     1418c http://10.10.9.70/images/prettyphoto/facebook/btnPrevious.png
+200      GET        7l       54w     2072c http://10.10.9.70/images/prettyphoto/default/default_thumb.png
+200      GET        7l       48w     2558c http://10.10.9.70/images/prettyphoto/dark_square/btnPrevious.png
+200      GET        7l       25w     1489c http://10.10.9.70/images/prettyphoto/facebook/btnNext.png
+200      GET        3l        9w      184c http://10.10.9.70/images/prettyphoto/facebook/contentPatternRight.png
+200      GET        5l       49w     1688c http://10.10.9.70/images/prettyphoto/default/sprite_next.png
+200      GET        1l        5w      376c http://10.10.9.70/images/prettyphoto/facebook/default_thumbnail.gif
+200      GET       12l       37w     2531c http://10.10.9.70/images/prettyphoto/dark_square/btnNext.png
+200      GET       29l      179w     3989c http://10.10.9.70/images/prettyphoto/facebook/loader.gif
+200      GET        3l        8w      181c http://10.10.9.70/images/prettyphoto/facebook/contentPatternLeft.png
+200      GET        3l        9w      182c http://10.10.9.70/images/prettyphoto/facebook/contentPatternBottom.png
+200      GET       12l       37w     2531c http://10.10.9.70/images/prettyphoto/dark_rounded/btnNext.png
+200      GET       16l       92w     6221c http://10.10.9.70/images/prettyphoto/dark_square/sprite.png
+200      GET        5l        8w      151c http://10.10.9.70/images/prettyphoto/dark_square/contentPattern.png
+200      GET       26l      178w    11213c http://10.10.9.70/images/prettyphoto/default/sprite.png
+200      GET        3l       46w     1178c http://10.10.9.70/images/prettyphoto/default/sprite_x.png
+200      GET       49l      319w     9680c http://10.10.9.70/images/prettyphoto/default/loader.gif
+200      GET        4l       44w     1230c http://10.10.9.70/images/prettyphoto/default/sprite_y.png
+200      GET       29l      179w     3935c http://10.10.9.70/images/prettyphoto/dark_square/loader.gif
+200      GET        3l        7w      165c http://10.10.9.70/images/prettyphoto/dark_rounded/contentPattern.png
+200      GET        1l        5w      376c http://10.10.9.70/images/prettyphoto/dark_rounded/default_thumbnail.gif
+200      GET        1l        5w      376c http://10.10.9.70/images/prettyphoto/light_square/default_thumbnail.gif
+200      GET        7l       48w     2558c http://10.10.9.70/images/prettyphoto/dark_rounded/btnPrevious.png
+200      GET       29l      179w     3935c http://10.10.9.70/images/prettyphoto/dark_rounded/loader.gif
+200      GET        5l       50w     1733c http://10.10.9.70/images/prettyphoto/default/sprite_prev.png
+200      GET       12l       37w     2531c http://10.10.9.70/images/prettyphoto/light_square/btnNext.png
+200      GET        7l       48w     2558c http://10.10.9.70/images/prettyphoto/light_square/btnPrevious.png
+200      GET       16l       92w     6221c http://10.10.9.70/images/prettyphoto/light_square/sprite.png
+200      GET     2177l     7830w   769959c http://10.10.9.70/images/new_img/img3.jpg
+200      GET       21l      114w     7314c http://10.10.9.70/images/prettyphoto/dark_rounded/sprite.png
+200      GET      152l      934w    72861c http://10.10.9.70/images/new_img/72.jpg
+200      GET       15l       83w     4148c http://10.10.9.70/images/img-01_002.png
+200      GET        4l       55w     2591c http://10.10.9.70/images/img-02_002.png
+200      GET        6l       60w     2598c http://10.10.9.70/images/img-04_002.png
+200      GET        7l       67w     2681c http://10.10.9.70/images/img-01_004.png
+200      GET        6l       58w     2443c http://10.10.9.70/images/img-03_003.png
+200      GET        9l       83w     3762c http://10.10.9.70/images/img-02.png
+200      GET      287l      704w     9025c http://10.10.9.70/js/custom.js
+200      GET     2188l     4179w    37910c http://10.10.9.70/style.css
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/js/ (Apache)
+200      GET      117l      465w    36457c http://10.10.9.70/images/img-1-1.jpg
+200      GET       42l      443w    25210c http://10.10.9.70/images/img-1-3.jpg
+200      GET       49l       63w     1348c http://10.10.9.70/js/3dslider.js
+200      GET      253l     1037w     7162c http://10.10.9.70/js/retina.js
+200      GET      501l     1469w    12022c http://10.10.9.70/js/jquery.vide.js
+200      GET       34l      103w     1440c http://10.10.9.70/js/map.js
+200      GET        4l      194w     8215c http://10.10.9.70/js/modernizer.js
+200      GET       20l      227w     9105c http://10.10.9.70/js/animate.js
+200      GET       67l      167w     2500c http://10.10.9.70/js/portfolio.js
+200      GET      225l      764w     5420c http://10.10.9.70/js/hoverdir.js
+200      GET        7l      264w    21506c http://10.10.9.70/js/jquery.prettyPhoto.js
+301      GET        9l       28w      305c http://10.10.9.70/js => http://10.10.9.70/js/
+200      GET      601l     2681w    18010c http://10.10.9.70/js/scroll.js
+200      GET     3266l     9521w    85100c http://10.10.9.70/js/owl.carousel.js
+200      GET      899l     4933w   375985c http://10.10.9.70/images/img-05.jpg
+200      GET      240l     3757w   285530c http://10.10.9.70/js/all.js
+200      GET       12l       82w     4018c http://10.10.9.70/images/img-04_003.png
+200      GET     5100l    22056w  1764124c http://10.10.9.70/images/new_img/Blonde-Soccer-Ball-Football-Baby-1800x2880.jpg
+200      GET       13l       82w     4124c http://10.10.9.70/images/img-05_002.png
+200      GET     2961l    17152w  1540210c http://10.10.9.70/images/img-01_002.jpg
+200      GET        0l        0w  1235757c http://10.10.9.70/images/img-02_003.jpg
+200      GET        0l        0w   279196c http://10.10.9.70/images/match-banner1.jpg
+200      GET        0l        0w    30279c http://10.10.9.70/blog.html
+200      GET        0l        0w    19868c http://10.10.9.70/team.html
+200      GET      644l     1718w    35184c http://10.10.9.70/
+200      GET       18l       95w     7558c http://10.10.9.70/images/prettyphoto/facebook/sprite.png
+200      GET       29l      179w     3989c http://10.10.9.70/images/prettyphoto/light_square/loader.gif
+200      GET       51l      319w    27394c http://10.10.9.70/images/img-03.png
+200      GET     8977l    49833w  4099372c http://10.10.9.70/images/new_img/bg1.png
+200      GET       13l      104w     5452c http://10.10.9.70/images/new_img/logo.png
+200      GET       53l      348w    28477c http://10.10.9.70/images/new_img/8-98x98.png
+200      GET      128l      923w    73272c http://10.10.9.70/images/new_img/23.jpg
+301      GET        9l       28w      308c http://10.10.9.70/fonts => http://10.10.9.70/fonts/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/fonts (Apache)
+200      GET       79l      300w     3139c http://10.10.9.70/fonts/flaticon.css
+200      GET      135l      406w     5190c http://10.10.9.70/fonts/_flaticon.scss
+200      GET       73l      429w    32536c http://10.10.9.70/fonts/glyphicons-halflings-regular.woff2
+200      GET       55l      334w    24464c http://10.10.9.70/fonts/Flaticon.woff
+200      GET      695l     1791w    34461c http://10.10.9.70/fonts/flaticon.html
+200      GET      297l     1128w    23701c http://10.10.9.70/fonts/Flaticon.ttf
+200      GET      106l      587w    35387c http://10.10.9.70/fonts/glyphicons-halflings-regular.eot
+200      GET      297l     1133w    23885c http://10.10.9.70/fonts/Flaticon.eot
+200      GET       94l      534w    42816c http://10.10.9.70/fonts/glyphicons-halflings-regular.woff
+200      GET      772l     1723w    58132c http://10.10.9.70/fonts/glyphicons-halflings-regular.ttf
+200      GET     1923l     8431w   735201c http://10.10.9.70/images/new_img/img2.jpg
+200      GET      390l     2094w   135959c http://10.10.9.70/fonts/fontawesome-webfont.eot
+200      GET      310l     2069w   163622c http://10.10.9.70/fonts/fontawesome-webfont.woff
+200      GET      260l     1635w   130134c http://10.10.9.70/fonts/fontawesome-webfont.woff2
+200      GET     1304l     5478w   196149c http://10.10.9.70/fonts/fontawesome-webfont.ttf
+200      GET      749l    15047w   156625c http://10.10.9.70/fonts/Flaticon.svg
+200      GET    22020l   122428w 10971121c http://10.10.9.70/images/Sports_ball__twitter_.jpg
+200      GET        0l        0w  2247302c http://10.10.9.70/images/bg1.png
+200      GET        0l        0w   309465c http://10.10.9.70/images/banner1.png
+200      GET        0l        0w   106570c http://10.10.9.70/images/bg.png
+200      GET        0l        0w  2391044c http://10.10.9.70/images/stadium.png
+200      GET        0l        0w   616863c http://10.10.9.70/images/about.jpeg
+200      GET        0l        0w  1051966c http://10.10.9.70/images/walle.jpg
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/images/prettyphoto/light_rounded (Apache)
+200      GET     2588l     4636w   239531c http://10.10.9.70/fonts/FontAwesome.otf
+200      GET        7l       48w     2558c http://10.10.9.70/images/prettyphoto/light_rounded/btnPrevious.png
+200      GET        1l        5w      376c http://10.10.9.70/images/prettyphoto/light_rounded/default_thumbnail.gif
+200      GET       29l      179w     3989c http://10.10.9.70/images/prettyphoto/light_rounded/loader.gif
+200      GET       18l      102w     7258c http://10.10.9.70/images/prettyphoto/light_rounded/sprite.png
+200      GET       12l       37w     2531c http://10.10.9.70/images/prettyphoto/light_rounded/btnNext.png
+200      GET      288l    13959w   108738c http://10.10.9.70/fonts/glyphicons-halflings-regular.svg
+200      GET      685l    57230w   391622c http://10.10.9.70/fonts/fontawesome-webfont.svg
+301      GET        9l       28w      309c http://10.10.9.70/secret => http://10.10.9.70/secret/
+301      GET        9l       28w      316c http://10.10.9.70/secret/images => http://10.10.9.70/secret/images/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.9.70/secret/images (Apache)
+200      GET      633l     4243w   228324c http://10.10.9.70/secret/images/FailingMiserableEwe-size_restricted.gif
+200      GET     4718l    21314w  1112123c http://10.10.9.70/secret/images/blue_boy_typing_nothought.gif

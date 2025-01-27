@@ -1,0 +1,12 @@
+200      GET       45l       81w      725c http://10.10.95.110/style.css
+200      GET       19l       37w      418c http://10.10.95.110/
+301      GET        9l       28w      311c http://10.10.95.110/cats => http://10.10.95.110/cats/
+301      GET        9l       28w      311c http://10.10.95.110/dogs => http://10.10.95.110/dogs/
+200      GET       45l       81w      725c http://10.10.95.110/style.css
+200      GET       19l       37w      418c http://10.10.95.110/
+403      GET        9l       28w      277c http://10.10.95.110/.htaccess.bak
+403      GET        9l       28w      277c http://10.10.95.110/.htpasswd
+403      GET        9l       28w      277c http://10.10.95.110/server-status
+403      GET        9l       28w      277c http://10.10.95.110/.htaccess
+200      GET       45l       81w      725c http://10.10.95.110/style.css
+200      GET       19l       37w      418c http://10.10.95.110/

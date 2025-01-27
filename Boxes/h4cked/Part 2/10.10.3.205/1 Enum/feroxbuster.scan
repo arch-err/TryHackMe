@@ -1,0 +1,3 @@
+200      GET       15l       74w     3338c http://10.10.3.205/icons/ubuntu-logo.png
+200      GET      375l      964w    10918c http://10.10.3.205/
+403      GET        9l       28w      276c http://10.10.3.205/server-status

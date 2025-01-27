@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+export IP="10.10.98.45"

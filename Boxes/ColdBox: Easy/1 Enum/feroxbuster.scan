@@ -1,0 +1,131 @@
+200      GET       89l      137w     1159c http://10.10.167.125/wp-content/themes/twentyfifteen/css/ie7.css
+301      GET        9l       28w      319c http://10.10.167.125/wp-content => http://10.10.167.125/wp-content/
+200      GET      915l     1623w    13627c http://10.10.167.125/wp-content/themes/twentyfifteen/css/ie.css
+301      GET        9l       28w      326c http://10.10.167.125/wp-content/themes => http://10.10.167.125/wp-content/themes/
+301      GET        9l       28w      320c http://10.10.167.125/wp-includes => http://10.10.167.125/wp-includes/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes (Apache)
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/class-pop3.php
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/class-wp-image-editor.php
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/class-wp-walker.php
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/class-wp-customize-panel.php
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/class-IXR.php
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/plugin.php
+500      GET        0l        0w        0c http://10.10.167.125/wp-includes/post.php
+301      GET        9l       28w      327c http://10.10.167.125/wp-content/plugins => http://10.10.167.125/wp-content/plugins/
+500      GET        0l        0w        0c http://10.10.167.125/wp-includes/rss.php
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/template.php
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/bookmark-template.php
+500      GET        0l        0w        0c http://10.10.167.125/wp-content/themes/twentyfifteen/
+200      GET       43l       43w     1045c http://10.10.167.125/wp-includes/wlwmanifest.xml
+200      GET     5731l    10231w    92356c http://10.10.167.125/wp-content/themes/twentyfifteen/style.css
+200      GET      131l      564w     4072c http://10.10.167.125/wp-content/themes/twentyfifteen/js/functions.js
+200      GET      209l      871w    27519c http://10.10.167.125/wp-content/themes/twentyfifteen/genericons/genericons.css
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/js/jquery/ (Apache)
+200      GET       36l       93w     3457c http://10.10.167.125/wp-includes/js/jquery/jquery.schedule.js
+200      GET        1l       38w     2963c http://10.10.167.125/wp-includes/js/jquery/suggest.min.js
+200      GET        5l     1413w    95807c http://10.10.167.125/wp-includes/js/jquery/jquery.js
+200      GET       99l      321w     3730c http://10.10.167.125/wp-includes/js/jquery/jquery.table-hotkeys.js
+200      GET       11l       62w     1836c http://10.10.167.125/wp-includes/js/jquery/jquery.masonry.min.js
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-content/languages (Apache)
+500      GET        0l        0w        0c http://10.10.167.125/wp-includes/template-loader.php
+200      GET      316l      717w     6976c http://10.10.167.125/wp-includes/js/jquery/suggest.js
+200      GET     1096l     7415w    57691c http://10.10.167.125/wp-content/languages/admin-network-es_ES.po
+200      GET       11l       40w     1179c http://10.10.167.125/wp-includes/js/jquery/jquery.ui.touch-punch.js
+200      GET      134l      515w     5612c http://10.10.167.125/wp-includes/js/jquery/jquery.hotkeys.js
+301      GET        9l       28w      327c http://10.10.167.125/wp-content/upgrade => http://10.10.167.125/wp-content/upgrade/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-content/upgrade (Apache)
+200      GET     1193l     4448w    41719c http://10.10.167.125/wp-includes/js/jquery/jquery.form.js
+200      GET      521l     2371w    17142c http://10.10.167.125/wp-includes/js/jquery/jquery-migrate.js
+200      GET        2l      204w     7200c http://10.10.167.125/wp-includes/js/jquery/jquery-migrate.min.js
+200      GET       11l      123w     3785c http://10.10.167.125/wp-includes/js/jquery/jquery.query.js
+200      GET        1l       13w     1793c http://10.10.167.125/wp-includes/js/jquery/jquery.hotkeys.min.js
+200      GET       31l       99w      783c http://10.10.167.125/wp-includes/js/jquery/jquery.serialize-object.js
+200      GET      350l    41211w   357316c http://10.10.167.125/wp-content/languages/admin-es_ES.mo
+200      GET        9l       74w     2432c http://10.10.167.125/wp-content/themes/twentyfifteen/js/html5.js
+200      GET        1l       26w     2295c http://10.10.167.125/wp-includes/js/jquery/jquery.table-hotkeys.min.js
+200      GET       26l       94w      727c http://10.10.167.125/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js
+200      GET       23l     5722w    46156c http://10.10.167.125/wp-content/languages/admin-network-es_ES.mo
+200      GET       11l      284w    14720c http://10.10.167.125/wp-includes/js/jquery/jquery.form.min.js
+200      GET        2l       81w     9295c http://10.10.167.125/wp-includes/js/jquery/jquery.color.min.js
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/formatting.php
+500      GET        0l        0w        0c http://10.10.167.125/wp-includes/class-wp-image-editor-imagick.php
+301      GET        9l       28w      329c http://10.10.167.125/wp-content/languages => http://10.10.167.125/wp-content/languages/
+200      GET      126l      465w     6847c http://10.10.167.125/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/js/ (Apache)
+200      GET        0l        0w        0c http://10.10.167.125/wp-content/themes/
+200      GET    10641l    57674w   484094c http://10.10.167.125/wp-content/languages/admin-es_ES.po
+200      GET     7539l    26480w   252750c http://10.10.167.125/wp-content/languages/es_ES.po
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/js/imgareaselect (Apache)
+200      GET        7l       11w      178c http://10.10.167.125/wp-includes/js/imgareaselect/border-anim-h.gif
+200      GET       41l       74w      790c http://10.10.167.125/wp-includes/js/imgareaselect/imgareaselect.css
+200      GET        1l       80w    13881c http://10.10.167.125/wp-includes/js/imgareaselect/jquery.imgareaselect.min.js
+200      GET     1205l     4257w    37069c http://10.10.167.125/wp-includes/js/imgareaselect/jquery.imgareaselect.js
+200      GET      363l    39438w   334965c http://10.10.167.125/wp-content/languages/admin-en_GB.mo
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/js/jquery (Apache)
+200      GET        1l      333w    14424c http://10.10.167.125/wp-includes/js/underscore.min.js
+200      GET        1l       32w     3010c http://10.10.167.125/wp-includes/js/wp-backbone.min.js
+200      GET        1l       58w     2950c http://10.10.167.125/wp-includes/js/json2.min.js
+200      GET     1114l     3849w    30135c http://10.10.167.125/wp-includes/js/media-editor.js
+200      GET        3l      576w    91866c http://10.10.167.125/wp-includes/js/media-views.min.js
+200      GET     7795l    23575w   215208c http://10.10.167.125/wp-includes/js/media-views.js
+200      GET       64l      423w     3116c http://10.10.167.125/wp-includes/js/wp-ajax-response.js
+200      GET        1l       35w     3639c http://10.10.167.125/wp-includes/js/wp-pointer.min.js
+200      GET        1l       11w     3457c http://10.10.167.125/wp-includes/js/customize-models.min.js
+200      GET      707l     2637w    29083c http://10.10.167.125/wp-includes/js/colorpicker.js
+200      GET        1l       65w     5494c http://10.10.167.125/wp-includes/js/heartbeat.min.js
+301      GET        9l       28w      324c http://10.10.167.125/wp-includes/css => http://10.10.167.125/wp-includes/css/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/css (Apache)
+200      GET        1l       75w     3063c http://10.10.167.125/wp-includes/css/wp-pointer-rtl.min.css
+200      GET      469l     1546w    11169c http://10.10.167.125/wp-includes/js/wp-lists.js
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/class-smtp.php
+200      GET       17l      131w     4752c http://10.10.167.125/wp-includes/css/jquery-ui-dialog.min.css
+200      GET     2555l     5242w    46544c http://10.10.167.125/wp-includes/css/media-views.css
+200      GET      212l      454w     3864c http://10.10.167.125/wp-includes/css/wp-pointer-rtl.css
+200      GET        1l      245w     5978c http://10.10.167.125/wp-includes/css/buttons-rtl.min.css
+200      GET        1l       75w     3058c http://10.10.167.125/wp-includes/css/wp-pointer.min.css
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/ms-blogs.php
+200      GET     2555l     5242w    46544c http://10.10.167.125/wp-includes/css/media-views-rtl.css
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/atomlib.php
+200      GET        1l       37w     1578c http://10.10.167.125/wp-includes/css/wp-auth-check-rtl.min.css
+200      GET        0l        0w        0c http://10.10.167.125/wp-includes/locale.php
+200      GET      364l     1055w     9264c http://10.10.167.125/wp-includes/css/buttons.css
+500      GET        0l        0w        0c http://10.10.167.125/wp-includes/kses.php
+200      GET        1l      603w    18809c http://10.10.167.125/wp-includes/css/admin-bar-rtl.min.css
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/images (Apache)
+500      GET        0l        0w        0c http://10.10.167.125/wp-includes/post-formats.php
+200      GET       17l      131w     4755c http://10.10.167.125/wp-includes/css/jquery-ui-dialog-rtl.min.css
+200      GET        6l       34w     1556c http://10.10.167.125/wp-includes/images/uploader-icons.png
+500      GET        0l        0w        0c http://10.10.167.125/wp-includes/class-feed.php
+200      GET        9l       48w     1369c http://10.10.167.125/wp-includes/images/icon-pointer-flag-2x.png
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/images/media (Apache)
+200      GET       63l      481w     8536c http://10.10.167.125/wp-includes/images/spinner-2x.gif
+200      GET        4l       16w      417c http://10.10.167.125/wp-includes/images/media/archive.png
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/images/crystal (Apache)
+200      GET        4l        7w      354c http://10.10.167.125/wp-includes/images/toggle-arrow-2x.png
+200      GET        6l       20w      382c http://10.10.167.125/wp-includes/images/media/audio.png
+200      GET        4l       11w      200c http://10.10.167.125/wp-includes/images/media/document.png
+301      GET        9l       28w      323c http://10.10.167.125/wp-includes/js => http://10.10.167.125/wp-includes/js/
+200      GET       12l       61w     2467c http://10.10.167.125/wp-includes/images/admin-bar-sprite.png
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-content/languages/plugins (Apache)
+200      GET        3l       15w      274c http://10.10.167.125/wp-includes/images/media/code.png
+200      GET        9l       29w     1666c http://10.10.167.125/wp-includes/images/arrow-pointer-blue-2x.png
+200      GET      212l      454w     3859c http://10.10.167.125/wp-includes/css/wp-pointer.css
+200      GET       18l     2263w    20007c http://10.10.167.125/wp-content/languages/plugins/akismet-es_ES.mo
+200      GET        3l        8w      168c http://10.10.167.125/wp-includes/images/media/default.png
+200      GET        1l        3w       84c http://10.10.167.125/wp-includes/images/down_arrow-2x.gif
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/js (Apache)
+200      GET       12l       35w     1306c http://10.10.167.125/wp-includes/images/rss-2x.png
+200      GET        7l       27w     2217c http://10.10.167.125/wp-includes/images/crystal/interactive.png
+200      GET      634l     3201w    24814c http://10.10.167.125/wp-content/languages/plugins/akismet-es_ES.po
+200      GET        5l       16w      793c http://10.10.167.125/wp-includes/images/arrow-pointer-blue.png
+200      GET       10l       34w     1339c http://10.10.167.125/wp-includes/images/crystal/video.png
+200      GET        4l       10w      319c http://10.10.167.125/wp-includes/images/media/interactive.png
+200      GET        1l      714w    29354c http://10.10.167.125/wp-includes/css/editor-rtl.min.css
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.167.125/wp-includes/images/wlw (Apache)
+200      GET        8l       82w     2209c http://10.10.167.125/wp-includes/images/wpspin.gif
+200      GET        5l       22w     1604c http://10.10.167.125/wp-includes/images/crystal/code.png
+200      GET       15l       62w     2376c http://10.10.167.125/wp-includes/images/wlw/wp-watermark.png
+200      GET        7l       31w      783c http://10.10.167.125/wp-includes/images/icon-pointer-flag.png
+200      GET        9l       30w     1373c http://10.10.167.125/wp-includes/images/wlw/wp-comments.png
+200      GET        9l      142w     1287c http://10.10.167.125/wp-content/languages/plugins/hello-dolly-es_ES.mo
+200      GET      591l     2110w    16102c http://10.10.167.125/wp-includes/js/autosave.js

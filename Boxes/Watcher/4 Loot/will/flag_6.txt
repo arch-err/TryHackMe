@@ -1,0 +1,1 @@
+FLAG{but_i_thought_my_script_was_secure}

@@ -1,0 +1,4 @@
+# Nmap 7.95 scan initiated Mon Jan 13 10:50:58 2025 as: nmap -oA 10.10.165.55.nmap 10.10.165.55
+Host: 10.10.165.55 ()	Status: Up
+Host: 10.10.165.55 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 8080/open/tcp//http-proxy///	Ignored State: closed (997)
+# Nmap done at Mon Jan 13 10:50:59 2025 -- 1 IP address (1 host up) scanned in 1.79 seconds

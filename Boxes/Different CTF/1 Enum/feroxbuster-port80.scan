@@ -1,0 +1,223 @@
+301      GET        9l       28w      317c http://10.10.34.237/wp-content => http://10.10.34.237/wp-content/
+200      GET      140l      570w    10846c http://10.10.34.237/
+301      GET        9l       28w      320c http://10.10.34.237/announcements => http://10.10.34.237/announcements/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/announcements (Apache)
+301      GET        9l       28w      318c http://10.10.34.237/wp-includes => http://10.10.34.237/wp-includes/
+200      GET      333l     1469w   103559c http://10.10.34.237/announcements/austrailian-bulldog-ant.jpg
+200      GET    50000l    50054w   403891c http://10.10.34.237/announcements/wordlist.txt
+301      GET        9l       28w      317c http://10.10.34.237/javascript => http://10.10.34.237/javascript/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes (Apache)
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/rss-functions.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-user-request.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-application-passwords.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-recovery-mode-cookie-service.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/kses.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/author-template.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/user.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-http.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/version.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/comment-template.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-object-cache.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/default-widgets.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-block-patterns-registry.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/atomlib.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-requests.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-ajax-response.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/nav-menu-template.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/pluggable.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rss.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-fatal-error-handler.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-term-query.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-dependency.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-metadata-lazyloader.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-comment.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-error.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-embed.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-snoopy.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-block-type-registry.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-walker.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/default-constants.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-matchesmapregex.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/link-template.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes/widgets (Apache)
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/widgets/class-wp-widget-media.php
+200      GET       43l       43w     1045c http://10.10.34.237/wp-includes/wlwmanifest.xml
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/feed-atom.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-IXR.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/registration.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes/certificates (Apache)
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/capabilities.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-simplepie-file.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/cache.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-network.php
+301      GET        9l       28w      324c http://10.10.34.237/wp-content/themes => http://10.10.34.237/wp-content/themes/
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/query.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/shortcodes.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/block-patterns.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/ms-load.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-block.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-walker-category.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-http-requests-response.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/bookmark.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-walker-category-dropdown.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes/SimplePie (Apache)
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-block-styles-registry.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/post-template.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/SimplePie/Cache.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-http-ixr-client.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-block-parser.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/compat.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/embed.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-image-editor.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/feed-rss.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/l10n.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-http-cookie.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/widgets/class-wp-widget-archives.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/locale.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/widgets/class-wp-widget-media-video.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-roles.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes/Requests (Apache)
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/pluggable-deprecated.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-walker-page-dropdown.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/post-thumbnail-template.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-post.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/general-template.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/sitemaps.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-user.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/update.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/functions.wp-styles.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/widgets.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-session-tokens.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/bookmark-template.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/media.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/cache-compat.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-block-supports.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-block-list.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/category-template.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/template.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-feed-cache-transient.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/embed-template.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/wp-diff.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-customize-panel.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-customize-section.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/feed-rss2-comments.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/date.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-phpass.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-image-editor-gd.php
+301      GET        9l       28w      325c http://10.10.34.237/wp-content/plugins => http://10.10.34.237/wp-content/plugins/
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/Requests/IDNAEncoder.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/Requests/IPv6.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-customize-control.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-site.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/meta.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes/rest-api (Apache)
+301      GET        9l       28w      323c http://10.10.34.237/wp-includes/Text => http://10.10.34.237/wp-includes/Text/
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/class-wp-rest-request.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/class-wp-rest-server.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/class-wp-rest-response.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes/rest-api/endpoints (Apache)
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-block-directory-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-comments-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-site-health-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-plugins-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-block-types-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-blocks-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-application-passwords-controller.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/SimplePie/Rating.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-widget.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-http-curl.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/SimplePie/Category.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-smtp.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/SimplePie/Core.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/SimplePie/File.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes/rest-api/search (Apache)
+200      GET        0l        0w        0c http://10.10.34.237/wp-includes/class-wp-customize-widgets.php
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes/SimplePie/Decode (Apache)
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-includes/rest-api/fields (Apache)
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php
+301      GET        9l       28w      322c http://10.10.34.237/wp-includes/css => http://10.10.34.237/wp-includes/css/
+301      GET        9l       28w      327c http://10.10.34.237/wp-includes/sitemaps => http://10.10.34.237/wp-includes/sitemaps/
+301      GET        9l       28w      333c http://10.10.34.237/wp-includes/block-supports => http://10.10.34.237/wp-includes/block-supports/
+301      GET        9l       28w      325c http://10.10.34.237/wp-includes/images => http://10.10.34.237/wp-includes/images/
+301      GET        9l       28w      331c http://10.10.34.237/wp-includes/theme-compat => http://10.10.34.237/wp-includes/theme-compat/
+301      GET        9l       28w      327c http://10.10.34.237/wp-includes/css/dist => http://10.10.34.237/wp-includes/css/dist/
+301      GET        9l       28w      315c http://10.10.34.237/wp-admin => http://10.10.34.237/wp-admin/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-admin/images (Apache)
+301      GET        9l       28w      322c http://10.10.34.237/wp-admin/images => http://10.10.34.237/wp-admin/images/
+200      GET        8l       21w     1492c http://10.10.34.237/wp-admin/images/arrows-2x.png
+200      GET        2l        6w      368c http://10.10.34.237/wp-admin/images/media-button-image.gif
+200      GET       21l      123w     9210c http://10.10.34.237/wp-admin/images/menu-vs.png
+200      GET        4l       33w     2935c http://10.10.34.237/wp-admin/images/list-2x.png
+200      GET        3l        6w      211c http://10.10.34.237/wp-admin/images/align-left-2x.png
+200      GET        6l       10w      177c http://10.10.34.237/wp-admin/images/se.png
+200      GET        3l        9w      475c http://10.10.34.237/wp-admin/images/media-button-other.gif
+200      GET        4l        8w      210c http://10.10.34.237/wp-admin/images/align-right-2x.png
+200      GET        5l       14w      862c http://10.10.34.237/wp-admin/images/align-right.png
+200      GET       69l      356w    11950c http://10.10.34.237/wp-admin/images/spinner-2x.gif
+200      GET       13l       78w     4373c http://10.10.34.237/wp-admin/images/wordpress-logo.png
+200      GET        3l       12w      958c http://10.10.34.237/wp-admin/images/align-left.png
+200      GET        4l       10w      556c http://10.10.34.237/wp-admin/images/media-button.png
+200      GET        6l       16w     1751c http://10.10.34.237/wp-admin/images/media-button-2x.png
+200      GET     1438l     9335w   644638c http://10.10.34.237/wp-admin/images/freedoms.png
+200      GET        8l       39w     1747c http://10.10.34.237/wp-admin/images/date-button-2x.gif
+200      GET       63l      442w    39699c http://10.10.34.237/wp-admin/images/icons32-2x.png
+200      GET       21l      143w     9553c http://10.10.34.237/wp-admin/images/post-formats32-vs.png
+301      GET        9l       28w      320c http://10.10.34.237/wp-admin/user => http://10.10.34.237/wp-admin/user/
+301      GET        9l       28w      323c http://10.10.34.237/wp-admin/network => http://10.10.34.237/wp-admin/network/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-admin/css (Apache)
+301      GET        9l       28w      319c http://10.10.34.237/wp-admin/css => http://10.10.34.237/wp-admin/css/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-admin/includes (Apache)
+301      GET        9l       28w      324c http://10.10.34.237/wp-admin/includes => http://10.10.34.237/wp-admin/includes/
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/import.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-wp-filesystem-direct.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/revision.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-wp-posts-list-table.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/deprecated.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-walker-nav-menu-checklist.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/admin.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-wp-community-events.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/ms-deprecated.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/noop.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-wp-theme-install-list-table.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/continents-cities.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/theme-install.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-wp-privacy-policy-content.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-wp-importer.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-wp-filesystem-ftpsockets.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-walker-nav-menu-edit.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/widgets.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-wp-screen.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-custom-background.php
+500      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/class-wp-ms-sites-list-table.php
+200      GET        0l        0w        0c http://10.10.34.237/wp-admin/includes/translation-install.php
+301      GET        9l       28w      318c http://10.10.34.237/wp-admin/js => http://10.10.34.237/wp-admin/js/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.34.237/wp-admin/js (Apache)
+200      GET        2l       80w     6722c http://10.10.34.237/wp-admin/js/postbox.min.js
+200      GET     1331l     4899w    44018c http://10.10.34.237/wp-admin/js/nav-menu.js
+200      GET     2024l     6752w    52405c http://10.10.34.237/wp-admin/js/common.js
+200      GET      356l     1327w     9730c http://10.10.34.237/wp-admin/js/color-picker.js
+200      GET     3428l    12105w   108373c http://10.10.34.237/wp-admin/js/customize-nav-menus.js
+200      GET        2l       97w    11239c http://10.10.34.237/wp-admin/js/image-edit.min.js
+200      GET      839l     3484w    27531c http://10.10.34.237/wp-admin/js/dashboard.js
+200      GET      161l      707w     5480c http://10.10.34.237/wp-admin/js/auth-app.js
+200      GET       28l      108w      876c http://10.10.34.237/wp-admin/js/set-post-thumbnail.js
+200      GET       88l      280w     2017c http://10.10.34.237/wp-admin/js/custom-header.js
+200      GET        2l       17w      692c http://10.10.34.237/wp-admin/js/user-suggest.min.js
+200      GET        2l       16w     1536c http://10.10.34.237/wp-admin/js/word-count.min.js
+200      GET        2l       20w     1669c http://10.10.34.237/wp-admin/js/link.min.js
+200      GET        2l       33w     2392c http://10.10.34.237/wp-admin/js/svg-painter.min.js
+200      GET      654l     2394w    18795c http://10.10.34.237/wp-admin/js/postbox.js
+200      GET        2l      195w    22000c http://10.10.34.237/wp-admin/js/nav-menu.min.js
+200      GET     1026l     2772w    25353c http://10.10.34.237/wp-admin/js/theme-plugin-editor.js
+200      GET        2l      388w    45806c http://10.10.34.237/wp-admin/js/customize-nav-menus.min.js
+200      GET     1617l     5793w    42607c http://10.10.34.237/wp-admin/js/editor-expand.js
+200      GET        2l       55w     2888c http://10.10.34.237/wp-admin/js/application-passwords.min.js
+200      GET        2l       11w      476c http://10.10.34.237/wp-admin/js/xfn.min.js

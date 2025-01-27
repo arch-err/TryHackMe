@@ -1,0 +1,11 @@
+# Nmap 7.94 scan initiated Tue Mar 26 20:57:29 2024 as: nmap -p- -sV -sT -o initial.nmap 10.10.56.212
+Nmap scan report for 10.10.56.212
+Host is up (0.052s latency).
+Not shown: 65533 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+22/tcp open  ssh     OpenSSH 7.2p2 Ubuntu 4ubuntu2.8 (Ubuntu Linux; protocol 2.0)
+80/tcp open  http    Apache httpd 2.4.18 ((Ubuntu))
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Mar 26 21:15:39 2024 -- 1 IP address (1 host up) scanned in 1090.05 seconds

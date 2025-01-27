@@ -1,0 +1,5 @@
+200      GET      199l      375w     5603c http://10.10.162.45/css/style.css
+200      GET       60l      153w     6890c http://10.10.162.45/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.162.45/css/ (Apache)
+301      GET        7l       13w      194c http://10.10.162.45/css => http://10.10.162.45/css/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.162.45/css (Apache)

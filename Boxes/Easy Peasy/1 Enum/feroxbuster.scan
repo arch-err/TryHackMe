@@ -1,0 +1,11 @@
+200      GET       25l       69w      612c http://10.10.180.147/
+301      GET        7l       11w      169c http://10.10.180.147/hidden => http://10.10.180.147/hidden/
+301      GET        7l       11w      169c http://10.10.180.147/hidden/whatever => http://10.10.180.147/hidden/whatever/
+200      GET       25l       69w      612c http://10.10.180.147/
+200      GET       25l       69w      612c http://10.10.180.147/index.html
+200      GET       25l       69w      612c http://10.10.180.147/
+301      GET        7l       11w      169c http://10.10.180.147/hidden => http://10.10.180.147/hidden/
+200      GET        3l        5w       43c http://10.10.180.147/robots.txt
+301      GET        7l       11w      169c http://10.10.180.147/hidden/whatever => http://10.10.180.147/hidden/whatever/
+WLD      GET       14l       39w      472c Got 405 for http://10.10.180.147/7d31f787f40245a1900c72f0287c297e (url length: 32)
+WLD      GET       14l       39w      472c Got 405 for http://10.10.180.147/060387765f1d4b35a2fe8ce477fef4d09cbe7d07c32941199ead63d55fdd016705fae9c4a4b246168ea02fe821c2a1eb (url length: 96)

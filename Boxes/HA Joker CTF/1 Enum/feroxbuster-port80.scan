@@ -1,0 +1,26 @@
+301      GET        9l       28w      312c http://10.10.254.213/img => http://10.10.254.213/img/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.254.213/img (Apache)
+200      GET      742l     4080w   313301c http://10.10.254.213/img/6.png
+301      GET        9l       28w      312c http://10.10.254.213/css => http://10.10.254.213/css/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.254.213/css (Apache)
+200      GET       16l       62w      788c http://10.10.254.213/css/font.css
+200      GET      232l      439w    23358c http://10.10.254.213/css/w3.css
+200      GET       96l      826w     5954c http://10.10.254.213/
+200      GET        0l        0w   159421c http://10.10.254.213/img/12.png
+200      GET        0l        0w   152506c http://10.10.254.213/img/8.png
+200      GET        0l        0w   141892c http://10.10.254.213/img/15.png
+200      GET        0l        0w   141846c http://10.10.254.213/img/14.png
+200      GET        0l        0w   176338c http://10.10.254.213/img/5.png
+200      GET        0l        0w   169977c http://10.10.254.213/img/3.png
+200      GET        0l        0w   148636c http://10.10.254.213/img/11.png
+200      GET        0l        0w   146045c http://10.10.254.213/img/13.png
+200      GET        0l        0w   197426c http://10.10.254.213/img/17.png
+200      GET      629l     3384w   260463c http://10.10.254.213/img/16.png
+200      GET       53l      374w   120997c http://10.10.254.213/img/100.jpg
+200      GET      626l     3336w   256036c http://10.10.254.213/img/2.png
+200      GET      737l     4076w   319321c http://10.10.254.213/img/4.png
+200      GET      847l     4474w   351909c http://10.10.254.213/img/18.png
+200      GET      615l     3289w   260369c http://10.10.254.213/img/10.png
+200      GET      722l     3903w   300909c http://10.10.254.213/img/7.png
+200      GET      788l     4147w   332926c http://10.10.254.213/img/9.png
+200      GET        0l        0w   172905c http://10.10.254.213/img/1.png

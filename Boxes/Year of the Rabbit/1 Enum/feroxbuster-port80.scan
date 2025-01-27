@@ -1,0 +1,15 @@
+301      GET        9l       28w      315c http://10.10.159.211/assets => http://10.10.159.211/assets/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.159.211/assets (Apache)
+200      GET      180l      306w     2968c http://10.10.159.211/assets/style.css
+200      GET       25l      128w    10355c http://10.10.159.211/icons/openlogo-75.png
+200      GET      189l      643w     7853c http://10.10.159.211/
+200      GET        0l        0w 402279586c http://10.10.159.211/assets/RickRolled.mp4
+200      GET      180l      306w     2968c http://10.10.159.211/assets/style.css
+200      GET       25l      128w    10355c http://10.10.159.211/icons/openlogo-75.png
+200      GET      189l      643w     7853c http://10.10.159.211/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.159.211/assets/ (Apache)
+200      GET       25l      128w    10355c http://10.10.159.211/icons/openlogo-75.png
+200      GET      180l      306w     2968c http://10.10.159.211/assets/style.css
+200      GET      189l      643w     7853c http://10.10.159.211/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.159.211/assets/ (Apache)
+200      GET        0l        0w 402279586c http://10.10.159.211/assets/RickRolled.mp4

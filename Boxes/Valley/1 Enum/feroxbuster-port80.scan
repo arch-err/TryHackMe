@@ -1,0 +1,44 @@
+200      GET       38l      129w     1163c http://10.10.12.154/index.html
+200      GET       32l       61w      924c http://10.10.12.154/pricing/pricing.html
+301      GET        9l       28w      314c http://10.10.12.154/gallery => http://10.10.12.154/gallery/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.12.154/gallery (Apache)
+200      GET      140l      394w     3940c http://10.10.12.154/gallery/gallery.html
+200      GET       38l      129w     1163c http://10.10.12.154/
+301      GET        9l       28w      313c http://10.10.12.154/static => http://10.10.12.154/static/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.12.154/pricing/ (Apache)
+301      GET        9l       28w      314c http://10.10.12.154/pricing => http://10.10.12.154/pricing/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.12.154/pricing (Apache)
+200      GET        5l       19w      127c http://10.10.12.154/static/00
+200      GET        0l        0w   627909c http://10.10.12.154/static/11
+200      GET        0l        0w  2275927c http://10.10.12.154/static/10
+200      GET        0l        0w  2203486c http://10.10.12.154/static/12
+200      GET        0l        0w  2473315c http://10.10.12.154/static/1
+200      GET        0l        0w  3627113c http://10.10.12.154/static/2
+200      GET        0l        0w  7389635c http://10.10.12.154/static/4
+200      GET        0l        0w  3673497c http://10.10.12.154/static/13
+200      GET        0l        0w   421858c http://10.10.12.154/static/3
+200      GET        0l        0w  2468462c http://10.10.12.154/static/16
+200      GET        0l        0w  2036137c http://10.10.12.154/static/18
+200      GET        0l        0w  2115495c http://10.10.12.154/static/6
+200      GET        0l        0w  3551807c http://10.10.12.154/static/17
+200      GET        0l        0w  1190575c http://10.10.12.154/static/9
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.12.154/pricing/ (Apache)
+301      GET        9l       28w      314c http://10.10.12.154/gallery => http://10.10.12.154/gallery/
+200      GET       38l      129w     1163c http://10.10.12.154/index.html
+200      GET        3l       10w       57c http://10.10.12.154/pricing/note.txt
+200      GET       38l      129w     1163c http://10.10.12.154/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.12.154/gallery (Apache)
+200      GET      140l      394w     3940c http://10.10.12.154/gallery/gallery.html
+301      GET        9l       28w      313c http://10.10.12.154/static => http://10.10.12.154/static/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.12.154/static (Apache)
+200      GET       32l       61w      924c http://10.10.12.154/pricing/pricing.html
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.12.154/gallery/ (Apache)
+301      GET        9l       28w      314c http://10.10.12.154/pricing => http://10.10.12.154/pricing/
+403      GET        9l       28w      277c http://10.10.12.154/server-status
+200      GET      140l      394w     3940c http://10.10.12.154/gallery/gallery.html
+200      GET       38l      129w     1163c http://10.10.12.154/index.html
+200      GET       38l      129w     1163c http://10.10.12.154/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.12.154/gallery/ (Apache)
+200      GET       32l       61w      924c http://10.10.12.154/pricing/pricing.html
+200      GET        3l       10w       57c http://10.10.12.154/pricing/note.txt
+200      GET       17l       70w     1139c http://10.10.12.154/pricing/

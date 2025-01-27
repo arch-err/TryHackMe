@@ -1,0 +1,5 @@
+dev notes for ftp server:
+-stop reusing credentials
+-check for any vulnerabilies
+-stay up to date on patching
+-change ftp port to normal port

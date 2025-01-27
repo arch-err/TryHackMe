@@ -1,0 +1,31 @@
+# Nmap 7.94 scan initiated Tue Apr  9 21:45:39 2024 as: nmap -T5 -o full.nmap 10.10.34.237
+Warning: 10.10.34.237 giving up on port because retransmission cap hit (2).
+Nmap scan report for 10.10.34.237
+Host is up (0.077s latency).
+Not shown: 977 closed tcp ports (conn-refused)
+PORT      STATE    SERVICE
+21/tcp    open     ftp
+1000/tcp  filtered cadlock
+1024/tcp  filtered kdm
+1040/tcp  filtered netsaint
+1053/tcp  filtered remote-as
+1069/tcp  filtered cognex-insight
+1185/tcp  filtered catchpole
+1198/tcp  filtered cajo-discovery
+2119/tcp  filtered gsigatekeeper
+2190/tcp  filtered tivoconnect
+2557/tcp  filtered nicetec-mgmt
+2725/tcp  filtered msolap-ptp2
+2968/tcp  filtered enpp
+3995/tcp  filtered iss-mgmt-ssl
+5060/tcp  filtered sip
+6792/tcp  filtered unknown
+7070/tcp  filtered realserver
+8402/tcp  filtered abarsd
+19780/tcp filtered unknown
+33354/tcp filtered unknown
+49161/tcp filtered unknown
+50000/tcp filtered ibm-db2
+50300/tcp filtered unknown
+
+# Nmap done at Tue Apr  9 21:45:47 2024 -- 1 IP address (1 host up) scanned in 7.68 seconds

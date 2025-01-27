@@ -1,0 +1,11 @@
+# Nmap 7.94 scan initiated Tue Apr  9 21:47:01 2024 as: nmap -p- -sV -sT -o initial.nmap 10.10.34.237
+Nmap scan report for 10.10.34.237
+Host is up (0.049s latency).
+Not shown: 65533 closed tcp ports (conn-refused)
+PORT   STATE SERVICE VERSION
+21/tcp open  ftp     vsftpd 3.0.3
+80/tcp open  http    Apache httpd 2.4.29
+Service Info: Host: 127.0.1.1; OS: Unix
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Tue Apr  9 21:48:21 2024 -- 1 IP address (1 host up) scanned in 80.34 seconds

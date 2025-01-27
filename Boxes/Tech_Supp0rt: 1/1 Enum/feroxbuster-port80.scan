@@ -1,0 +1,168 @@
+301      GET        9l       28w      316c http://10.10.197.76/wordpress => http://10.10.197.76/wordpress/
+301      GET        9l       28w      311c http://10.10.197.76/test => http://10.10.197.76/test/
+200      GET      375l      968w    11321c http://10.10.197.76/
+200      GET       15l       74w     6143c http://10.10.197.76/icons/ubuntu-logo.png
+301      GET        9l       28w      327c http://10.10.197.76/wordpress/wp-content => http://10.10.197.76/wordpress/wp-content/
+301      GET        9l       28w      334c http://10.10.197.76/wordpress/wp-content/themes => http://10.10.197.76/wordpress/wp-content/themes/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-content/uploads (Apache)
+301      GET        9l       28w      328c http://10.10.197.76/wordpress/wp-includes => http://10.10.197.76/wordpress/wp-includes/
+301      GET        9l       28w      335c http://10.10.197.76/wordpress/wp-content/uploads => http://10.10.197.76/wordpress/wp-content/uploads/
+301      GET        9l       28w      335c http://10.10.197.76/wordpress/wp-includes/images => http://10.10.197.76/wordpress/wp-includes/images/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/images (Apache)
+200      GET        5l       16w     1569c http://10.10.197.76/wordpress/wp-includes/images/arrow-pointer-blue.png
+200      GET        4l        7w      659c http://10.10.197.76/wordpress/wp-includes/images/toggle-arrow-2x.png
+200      GET       24l      133w    12904c http://10.10.197.76/wordpress/wp-includes/images/wpicons.png
+200      GET       13l       73w     7497c http://10.10.197.76/wordpress/wp-includes/images/admin-bar-sprite-2x.png
+200      GET        9l       48w     2439c http://10.10.197.76/wordpress/wp-includes/images/icon-pointer-flag-2x.png
+200      GET        6l       34w     2808c http://10.10.197.76/wordpress/wp-includes/images/uploader-icons.png
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/assets (Apache)
+301      GET        9l       28w      335c http://10.10.197.76/wordpress/wp-content/plugins => http://10.10.197.76/wordpress/wp-content/plugins/
+200      GET        7l       31w     1389c http://10.10.197.76/wordpress/wp-includes/images/icon-pointer-flag.png
+200      GET       69l      356w    11950c http://10.10.197.76/wordpress/wp-includes/images/spinner-2x.gif
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/css (Apache)
+200      GET       19l       28w     1477c http://10.10.197.76/wordpress/wp-includes/css/wp-embed-template-ie.css
+200      GET       18l      110w     4552c http://10.10.197.76/wordpress/wp-includes/css/jquery-ui-dialog-rtl.min.css
+200      GET        2l       10w     1473c http://10.10.197.76/wordpress/wp-includes/css/wp-embed-template-ie.min.css
+200      GET        2l       85w     3248c http://10.10.197.76/wordpress/wp-includes/css/wp-pointer.min.css
+200      GET      225l      478w     4076c http://10.10.197.76/wordpress/wp-includes/css/wp-pointer-rtl.css
+200      GET       18l      110w     4548c http://10.10.197.76/wordpress/wp-includes/css/jquery-ui-dialog.min.css
+200      GET      166l      409w     3629c http://10.10.197.76/wordpress/wp-includes/css/customize-preview.css
+200      GET        2l       65w     2870c http://10.10.197.76/wordpress/wp-includes/css/customize-preview.min.css
+200      GET      123l      251w     2508c http://10.10.197.76/wordpress/wp-includes/css/wp-auth-check.css
+200      GET        2l       88w     6967c http://10.10.197.76/wordpress/wp-includes/css/wp-embed-template.min.css
+200      GET        2l      173w     5856c http://10.10.197.76/wordpress/wp-includes/css/buttons-rtl.min.css
+200      GET      358l      727w     5967c http://10.10.197.76/wordpress/wp-includes/css/jquery-ui-dialog-rtl.css
+200      GET        2l       65w     2875c http://10.10.197.76/wordpress/wp-includes/css/customize-preview-rtl.min.css
+200      GET        2l       85w     3253c http://10.10.197.76/wordpress/wp-includes/css/wp-pointer-rtl.min.css
+200      GET      224l      472w     4036c http://10.10.197.76/wordpress/wp-includes/css/wp-pointer.css
+200      GET      167l      415w     3669c http://10.10.197.76/wordpress/wp-includes/css/customize-preview-rtl.css
+200      GET      402l     1021w     9635c http://10.10.197.76/wordpress/wp-includes/css/buttons-rtl.css
+200      GET      401l     1015w     9598c http://10.10.197.76/wordpress/wp-includes/css/buttons.css
+200      GET        2l      711w    27209c http://10.10.197.76/wordpress/wp-includes/css/editor.min.css
+200      GET      124l      257w     2545c http://10.10.197.76/wordpress/wp-includes/css/wp-auth-check-rtl.css
+200      GET        2l      711w    27212c http://10.10.197.76/wordpress/wp-includes/css/editor-rtl.min.css
+200      GET        2l       43w     1918c http://10.10.197.76/wordpress/wp-includes/css/wp-auth-check-rtl.min.css
+200      GET        2l       43w     1916c http://10.10.197.76/wordpress/wp-includes/css/wp-auth-check.min.css
+200      GET     1084l     2642w    23876c http://10.10.197.76/wordpress/wp-includes/css/admin-bar.css
+200      GET     1085l     2648w    23910c http://10.10.197.76/wordpress/wp-includes/css/admin-bar-rtl.css
+200      GET      357l      721w     5928c http://10.10.197.76/wordpress/wp-includes/css/jquery-ui-dialog.css
+200      GET        2l      630w    19601c http://10.10.197.76/wordpress/wp-includes/css/admin-bar.min.css
+200      GET        2l      630w    19600c http://10.10.197.76/wordpress/wp-includes/css/admin-bar-rtl.min.css
+200      GET     1879l     3607w    33002c http://10.10.197.76/wordpress/wp-includes/css/editor.css
+200      GET     1440l     1872w    62361c http://10.10.197.76/wordpress/wp-includes/css/dashicons.css
+200      GET        2l       12w    59016c http://10.10.197.76/wordpress/wp-includes/css/dashicons.min.css
+200      GET        2l      173w     5854c http://10.10.197.76/wordpress/wp-includes/css/buttons.min.css
+301      GET        9l       28w      335c http://10.10.197.76/wordpress/wp-content/upgrade => http://10.10.197.76/wordpress/wp-content/upgrade/
+200      GET     1880l     3613w    33040c http://10.10.197.76/wordpress/wp-includes/css/editor-rtl.css
+200      GET        9l     1359w    45500c http://10.10.197.76/wordpress/wp-includes/css/media-views.min.css
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-content/upgrade (Apache)
+200      GET        9l     1359w    45507c http://10.10.197.76/wordpress/wp-includes/css/media-views-rtl.min.css
+200      GET     2903l     6107w    56076c http://10.10.197.76/wordpress/wp-includes/css/media-views-rtl.css
+301      GET        9l       28w      335c http://10.10.197.76/wordpress/wp-includes/assets => http://10.10.197.76/wordpress/wp-includes/assets/
+200      GET     2902l     6101w    56034c http://10.10.197.76/wordpress/wp-includes/css/media-views.css
+200      GET      359l      661w     7937c http://10.10.197.76/wordpress/wp-includes/css/wp-embed-template.css
+301      GET        9l       28w      332c http://10.10.197.76/wordpress/wp-includes/css => http://10.10.197.76/wordpress/wp-includes/css/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/js (Apache)
+200      GET       30l      102w      821c http://10.10.197.76/wordpress/wp-includes/js/zxcvbn-async.js
+200      GET        2l       38w     1718c http://10.10.197.76/wordpress/wp-includes/js/hoverintent-js.min.js
+200      GET      801l     2616w    21160c http://10.10.197.76/wordpress/wp-includes/js/wplink.js
+200      GET      137l      540w     3981c http://10.10.197.76/wordpress/wp-includes/js/wp-util.js
+200      GET        2l      120w    13811c http://10.10.197.76/wordpress/wp-includes/js/media-models.min.js
+200      GET        2l       10w      597c http://10.10.197.76/wordpress/wp-includes/js/wp-list-revisions.min.js
+200      GET      566l     2192w    15240c http://10.10.197.76/wordpress/wp-includes/js/wp-backbone.js
+200      GET        2l       34w     1674c http://10.10.197.76/wordpress/wp-includes/js/wp-auth-check.min.js
+200      GET      204l      799w     4665c http://10.10.197.76/wordpress/wp-includes/js/utils.js
+200      GET        2l       98w     7858c http://10.10.197.76/wordpress/wp-includes/js/customize-base.min.js
+200      GET        2l      106w    12857c http://10.10.197.76/wordpress/wp-includes/js/media-audiovideo.min.js
+200      GET      749l     3117w    22615c http://10.10.197.76/wordpress/wp-includes/js/quicktags.js
+200      GET      420l     1403w    10233c http://10.10.197.76/wordpress/wp-includes/js/wp-pointer.js
+200      GET       70l      435w     3214c http://10.10.197.76/wordpress/wp-includes/js/wp-ajax-response.js
+200      GET     1068l     3730w    29119c http://10.10.197.76/wordpress/wp-includes/js/media-editor.js
+200      GET      973l     3159w    29493c http://10.10.197.76/wordpress/wp-includes/js/clipboard.js
+200      GET        2l       37w     3037c http://10.10.197.76/wordpress/wp-includes/js/wp-backbone.min.js
+200      GET        8l      116w     5629c http://10.10.197.76/wordpress/wp-includes/js/imagesloaded.min.js
+301      GET        9l       28w      331c http://10.10.197.76/wordpress/wp-includes/js => http://10.10.197.76/wordpress/wp-includes/js/
+200      GET       27l       68w      560c http://10.10.197.76/wordpress/wp-includes/js/wpdialog.js
+200      GET        2l       11w      458c http://10.10.197.76/wordpress/wp-includes/js/wp-sanitize.min.js
+200      GET        2l       44w     4442c http://10.10.197.76/wordpress/wp-includes/js/wp-custom-header.min.js
+200      GET        2l       35w     2650c http://10.10.197.76/wordpress/wp-includes/js/shortcode.min.js
+200      GET      115l      593w     4950c http://10.10.197.76/wordpress/wp-includes/js/hoverIntent.js
+200      GET        2l      105w    14687c http://10.10.197.76/wordpress/wp-includes/js/wp-api.min.js
+200      GET        2l       46w     5038c http://10.10.197.76/wordpress/wp-includes/js/customize-preview-nav-menus.min.js
+200      GET        2l        7w      272c http://10.10.197.76/wordpress/wp-includes/js/wpdialog.min.js
+200      GET        2l       10w      351c http://10.10.197.76/wordpress/wp-includes/js/zxcvbn-async.min.js
+200      GET        2l       27w     3154c http://10.10.197.76/wordpress/wp-includes/js/wp-embed-template.min.js
+200      GET        2l       17w     1077c http://10.10.197.76/wordpress/wp-includes/js/wp-util.min.js
+200      GET        2l      349w    16045c http://10.10.197.76/wordpress/wp-includes/js/underscore.min.js
+200      GET        2l       48w     3556c http://10.10.197.76/wordpress/wp-includes/js/admin-bar.min.js
+200      GET      519l     2244w    18422c http://10.10.197.76/wordpress/wp-includes/js/json2.js
+301      GET        9l       28w      335c http://10.10.197.76/wordpress/wp-includes/blocks => http://10.10.197.76/wordpress/wp-includes/blocks/
+200      GET        2l       67w    11283c http://10.10.197.76/wordpress/wp-includes/js/wplink.min.js
+200      GET      128l      454w     3214c http://10.10.197.76/wordpress/wp-includes/js/wp-embed.js
+200      GET      193l      503w     4971c http://10.10.197.76/wordpress/wp-includes/js/tw-sack.js
+200      GET      124l      472w     3324c http://10.10.197.76/wordpress/wp-includes/js/api-request.js
+200      GET      465l     1263w    10447c http://10.10.197.76/wordpress/wp-includes/js/wp-custom-header.js
+200      GET        2l       61w     5847c http://10.10.197.76/wordpress/wp-includes/js/autosave.min.js
+200      GET        2l       96w    10909c http://10.10.197.76/wordpress/wp-includes/js/media-editor.min.js
+200      GET        2l      322w    23818c http://10.10.197.76/wordpress/wp-includes/js/backbone.min.js
+200      GET        2l       25w     2873c http://10.10.197.76/wordpress/wp-includes/js/wp-emoji.min.js
+200      GET      568l     2231w    28010c http://10.10.197.76/wordpress/wp-includes/js/twemoji.js
+200      GET        2l       93w     9883c http://10.10.197.76/wordpress/wp-includes/js/mce-view.min.js
+200      GET        2l       40w     3621c http://10.10.197.76/wordpress/wp-includes/js/wp-pointer.min.js
+200      GET      291l      999w     7904c http://10.10.197.76/wordpress/wp-includes/js/customize-loader.js
+200      GET      773l     2726w    23253c http://10.10.197.76/wordpress/wp-includes/js/customize-preview-widgets.js
+200      GET      446l     1795w    15024c http://10.10.197.76/wordpress/wp-includes/js/customize-preview-nav-menus.js
+200      GET        2l      254w    10419c http://10.10.197.76/wordpress/wp-includes/js/clipboard.min.js
+200      GET     1659l     6106w    45137c http://10.10.197.76/wordpress/wp-includes/js/media-models.js
+200      GET     1066l     4097w    33332c http://10.10.197.76/wordpress/wp-includes/js/customize-selective-refresh.js
+301      GET        9l       28w      341c http://10.10.197.76/wordpress/wp-includes/blocks/video => http://10.10.197.76/wordpress/wp-includes/blocks/video/
+301      GET        9l       28w      341c http://10.10.197.76/wordpress/wp-includes/blocks/image => http://10.10.197.76/wordpress/wp-includes/blocks/image/
+301      GET        9l       28w      343c http://10.10.197.76/wordpress/wp-includes/blocks/buttons => http://10.10.197.76/wordpress/wp-includes/blocks/buttons/
+301      GET        9l       28w      342c http://10.10.197.76/wordpress/wp-includes/blocks/button => http://10.10.197.76/wordpress/wp-includes/blocks/button/
+301      GET        9l       28w      340c http://10.10.197.76/wordpress/wp-includes/blocks/list => http://10.10.197.76/wordpress/wp-includes/blocks/list/
+200      GET    10260l    31251w   267734c http://10.10.197.76/wordpress/wp-includes/js/media-views.js
+200      GET        0l        0w   822237c http://10.10.197.76/wordpress/wp-includes/js/zxcvbn.min.js
+301      GET        9l       28w      341c http://10.10.197.76/wordpress/wp-includes/blocks/audio => http://10.10.197.76/wordpress/wp-includes/blocks/audio/
+301      GET        9l       28w      340c http://10.10.197.76/wordpress/wp-includes/blocks/html => http://10.10.197.76/wordpress/wp-includes/blocks/html/
+301      GET        9l       28w      340c http://10.10.197.76/wordpress/wp-includes/blocks/more => http://10.10.197.76/wordpress/wp-includes/blocks/more/
+301      GET        9l       28w      341c http://10.10.197.76/wordpress/wp-includes/blocks/group => http://10.10.197.76/wordpress/wp-includes/blocks/group/
+301      GET        9l       28w      343c http://10.10.197.76/wordpress/wp-includes/blocks/gallery => http://10.10.197.76/wordpress/wp-includes/blocks/gallery/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/widgets (Apache)
+301      GET        9l       28w      344c http://10.10.197.76/wordpress/wp-includes/blocks/calendar => http://10.10.197.76/wordpress/wp-includes/blocks/calendar/
+301      GET        9l       28w      341c http://10.10.197.76/wordpress/wp-includes/blocks/quote => http://10.10.197.76/wordpress/wp-includes/blocks/quote/
+301      GET        9l       28w      340c http://10.10.197.76/wordpress/wp-includes/blocks/code => http://10.10.197.76/wordpress/wp-includes/blocks/code/
+301      GET        9l       28w      343c http://10.10.197.76/wordpress/wp-includes/blocks/columns => http://10.10.197.76/wordpress/wp-includes/blocks/columns/
+301      GET        9l       28w      336c http://10.10.197.76/wordpress/wp-includes/widgets => http://10.10.197.76/wordpress/wp-includes/widgets/
+301      GET        9l       28w      340c http://10.10.197.76/wordpress/wp-includes/blocks/file => http://10.10.197.76/wordpress/wp-includes/blocks/file/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/fonts (Apache)
+301      GET        9l       28w      342c http://10.10.197.76/wordpress/wp-includes/blocks/column => http://10.10.197.76/wordpress/wp-includes/blocks/column/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/customize (Apache)
+301      GET        9l       28w      341c http://10.10.197.76/wordpress/wp-includes/blocks/block => http://10.10.197.76/wordpress/wp-includes/blocks/block/
+301      GET        9l       28w      334c http://10.10.197.76/wordpress/wp-includes/fonts => http://10.10.197.76/wordpress/wp-includes/fonts/
+500      GET        0l        0w        0c http://10.10.197.76/wordpress/wp-includes/customize/class-wp-customize-nav-menus-panel.php
+500      GET        0l        0w        0c http://10.10.197.76/wordpress/wp-includes/customize/class-wp-customize-code-editor-control.php
+500      GET        0l        0w        0c http://10.10.197.76/wordpress/wp-includes/customize/class-wp-customize-nav-menu-section.php
+200      GET        0l        0w        0c http://10.10.197.76/wordpress/wp-includes/customize/class-wp-customize-selective-refresh.php
+301      GET        9l       28w      338c http://10.10.197.76/wordpress/wp-includes/customize => http://10.10.197.76/wordpress/wp-includes/customize/
+301      GET        9l       28w      345c http://10.10.197.76/wordpress/wp-includes/blocks/separator => http://10.10.197.76/wordpress/wp-includes/blocks/separator/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/certificates (Apache)
+200      GET     3639l     4426w   234459c http://10.10.197.76/wordpress/wp-includes/certificates/ca-bundle.crt
+301      GET        9l       28w      341c http://10.10.197.76/wordpress/wp-includes/certificates => http://10.10.197.76/wordpress/wp-includes/certificates/
+301      GET        9l       28w      341c http://10.10.197.76/wordpress/wp-includes/blocks/table => http://10.10.197.76/wordpress/wp-includes/blocks/table/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/Text (Apache)
+301      GET        9l       28w      333c http://10.10.197.76/wordpress/wp-includes/Text => http://10.10.197.76/wordpress/wp-includes/Text/
+301      GET        9l       28w      343c http://10.10.197.76/wordpress/wp-includes/blocks/missing => http://10.10.197.76/wordpress/wp-includes/blocks/missing/
+MSG      0.000 feroxbuster::heuristics detected directory listing: http://10.10.197.76/wordpress/wp-includes/sitemaps (Apache)
+301      GET        9l       28w      337c http://10.10.197.76/wordpress/wp-includes/sitemaps => http://10.10.197.76/wordpress/wp-includes/sitemaps/
+301      GET        9l       28w      343c http://10.10.197.76/wordpress/wp-includes/blocks/heading => http://10.10.197.76/wordpress/wp-includes/blocks/heading/
+301      GET        9l       28w      341c http://10.10.197.76/wordpress/wp-includes/blocks/embed => http://10.10.197.76/wordpress/wp-includes/blocks/embed/
+301      GET        9l       28w      344c http://10.10.197.76/wordpress/wp-includes/blocks/freeform => http://10.10.197.76/wordpress/wp-includes/blocks/freeform/
+301      GET        9l       28w      347c http://10.10.197.76/wordpress/wp-content/plugins/redirection => http://10.10.197.76/wordpress/wp-content/plugins/redirection/
+301      GET        9l       28w      343c http://10.10.197.76/wordpress/wp-content/plugins/akismet => http://10.10.197.76/wordpress/wp-content/plugins/akismet/
+301      GET        9l       28w      344c http://10.10.197.76/wordpress/wp-includes/blocks/nextpage => http://10.10.197.76/wordpress/wp-includes/blocks/nextpage/
+301      GET        9l       28w      345c http://10.10.197.76/wordpress/wp-includes/blocks/paragraph => http://10.10.197.76/wordpress/wp-includes/blocks/paragraph/
+200      GET       15l       74w     6143c http://10.10.197.76/icons/ubuntu-logo.png
+200      GET      375l      968w    11321c http://10.10.197.76/
+200      GET     1165l     5849w    94926c http://10.10.197.76/phpinfo.php
+200      GET       15l       74w     6143c http://10.10.197.76/icons/ubuntu-logo.png
+200      GET      375l      968w    11321c http://10.10.197.76/

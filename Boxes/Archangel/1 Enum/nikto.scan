@@ -1,0 +1,16 @@
+- Nikto v2.5.0
+---------------------------------------------------------------------------
++ Target IP:          10.10.23.14
++ Target Hostname:    10.10.23.14
++ Target Port:        80
++ Start Time:         2024-04-06 12:07:26 (GMT2)
+---------------------------------------------------------------------------
++ Server: Apache/2.4.29 (Ubuntu)
++ /: The anti-clickjacking X-Frame-Options header is not present. See: https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/X-Frame-Options
++ /: The X-Content-Type-Options header is not set. This could allow the user agent to render the content of the site in a different fashion to the MIME type. See: https://www.netsparker.com/web-vulnerability-scanner/vulnerabilities/missing-content-type-header/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ Apache/2.4.29 appears to be outdated (current is at least 2.4.57). Apache 2.2.34 is the EOL for the 2.x branch.
++ Scan terminated: 15 error(s) and 3 item(s) reported on remote host
++ End Time:           2024-04-06 12:23:35 (GMT2) (969 seconds)
+---------------------------------------------------------------------------
++ 1 host(s) tested
