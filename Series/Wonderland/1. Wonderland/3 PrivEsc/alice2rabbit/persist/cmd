@@ -1,0 +1,1 @@
+echo 'ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBpif2ScRAmlgHr6vBBdcxx1d2LLOey6AN+i/MwqitP1 ubuntu@mypc' > authorized_keys

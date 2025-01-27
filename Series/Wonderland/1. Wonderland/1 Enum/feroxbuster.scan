@@ -1,0 +1,65 @@
+200      GET       11l       24w      217c http://10.10.88.200/main.css
+301      GET        0l        0w        0c http://10.10.88.200/img => img/
+301      GET        0l        0w        0c http://10.10.88.200/r => r/
+200      GET        0l        0w  1993438c http://10.10.88.200/img/white_rabbit_1.jpg
+200      GET       10l       44w      402c http://10.10.88.200/
+301      GET        0l        0w        0c http://10.10.88.200/r/a => a/
+200      GET        0l        0w  1556347c http://10.10.88.200/img/alice_door.jpg
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b => b/
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b/b => b/
+200      GET        0l        0w  1843670c http://10.10.88.200/img/alice_door.png
+200      GET        5l        8w      153c http://10.10.88.200/img/
+301      GET        0l        0w        0c http://10.10.88.200/poem => poem/
+301      GET        0l        0w        0c http://10.10.88.200/http%3A%2F%2Fwww => /http:/www
+301      GET        0l        0w        0c http://10.10.88.200/img/http%3A%2F%2Fwww => /img/http:/www
+301      GET        0l        0w        0c http://10.10.88.200/r/http%3A%2F%2Fwww => /r/http:/www
+301      GET        0l        0w        0c http://10.10.88.200/r/a/http%3A%2F%2Fwww => /r/a/http:/www
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b/http%3A%2F%2Fwww => /r/a/b/http:/www
+301      GET        0l        0w        0c http://10.10.88.200/poem/http%3A%2F%2Fwww => /poem/http:/www
+301      GET        0l        0w        0c http://10.10.88.200/http%3A%2F%2Fyoutube => /http:/youtube
+301      GET        0l        0w        0c http://10.10.88.200/img/http%3A%2F%2Fyoutube => /img/http:/youtube
+301      GET        0l        0w        0c http://10.10.88.200/r/http%3A%2F%2Fyoutube => /r/http:/youtube
+301      GET        0l        0w        0c http://10.10.88.200/r/a/http%3A%2F%2Fyoutube => /r/a/http:/youtube
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b/http%3A%2F%2Fyoutube => /r/a/b/http:/youtube
+301      GET        0l        0w        0c http://10.10.88.200/http%3A%2F%2Fblogs => /http:/blogs
+301      GET        0l        0w        0c http://10.10.88.200/img/http%3A%2F%2Fblogs => /img/http:/blogs
+301      GET        0l        0w        0c http://10.10.88.200/r/http%3A%2F%2Fblogs => /r/http:/blogs
+301      GET        0l        0w        0c http://10.10.88.200/r/a/http%3A%2F%2Fblogs => /r/a/http:/blogs
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b/http%3A%2F%2Fblogs => /r/a/b/http:/blogs
+301      GET        0l        0w        0c http://10.10.88.200/http%3A%2F%2Fblog => /http:/blog
+301      GET        0l        0w        0c http://10.10.88.200/img/http%3A%2F%2Fblog => /img/http:/blog
+301      GET        0l        0w        0c http://10.10.88.200/r/http%3A%2F%2Fblog => /r/http:/blog
+301      GET        0l        0w        0c http://10.10.88.200/r/a/http%3A%2F%2Fblog => /r/a/http:/blog
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b/http%3A%2F%2Fblog => /r/a/b/http:/blog
+301      GET        0l        0w        0c http://10.10.88.200/poem/http%3A%2F%2Fyoutube => /poem/http:/youtube
+301      GET        0l        0w        0c http://10.10.88.200/**http%3A%2F%2Fwww => /%2A%2Ahttp:/www
+301      GET        0l        0w        0c http://10.10.88.200/img/**http%3A%2F%2Fwww => /img/%2A%2Ahttp:/www
+301      GET        0l        0w        0c http://10.10.88.200/r/**http%3A%2F%2Fwww => /r/%2A%2Ahttp:/www
+301      GET        0l        0w        0c http://10.10.88.200/r/a/**http%3A%2F%2Fwww => /r/a/%2A%2Ahttp:/www
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b/**http%3A%2F%2Fwww => /r/a/b/%2A%2Ahttp:/www
+301      GET        0l        0w        0c http://10.10.88.200/poem/http%3A%2F%2Fblogs => /poem/http:/blogs
+301      GET        0l        0w        0c http://10.10.88.200/poem/http%3A%2F%2Fblog => /poem/http:/blog
+301      GET        0l        0w        0c http://10.10.88.200/poem/**http%3A%2F%2Fwww => /poem/%2A%2Ahttp:/www
+301      GET        0l        0w        0c http://10.10.88.200/http%3A%2F%2Fcommunity => /http:/community
+301      GET        0l        0w        0c http://10.10.88.200/img/http%3A%2F%2Fcommunity => /img/http:/community
+301      GET        0l        0w        0c http://10.10.88.200/r/http%3A%2F%2Fcommunity => /r/http:/community
+301      GET        0l        0w        0c http://10.10.88.200/r/a/http%3A%2F%2Fcommunity => /r/a/http:/community
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b/http%3A%2F%2Fcommunity => /r/a/b/http:/community
+301      GET        0l        0w        0c http://10.10.88.200/http%3A%2F%2Fradar => /http:/radar
+301      GET        0l        0w        0c http://10.10.88.200/img/http%3A%2F%2Fradar => /img/http:/radar
+301      GET        0l        0w        0c http://10.10.88.200/r/a/http%3A%2F%2Fradar => /r/a/http:/radar
+301      GET        0l        0w        0c http://10.10.88.200/r/http%3A%2F%2Fradar => /r/http:/radar
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b/http%3A%2F%2Fradar => /r/a/b/http:/radar
+301      GET        0l        0w        0c http://10.10.88.200/poem/http%3A%2F%2Fcommunity => /poem/http:/community
+301      GET        0l        0w        0c http://10.10.88.200/poem/http%3A%2F%2Fradar => /poem/http:/radar
+301      GET        0l        0w        0c http://10.10.88.200/http%3A%2F%2Fjeremiahgrossman => /http:/jeremiahgrossman
+301      GET        0l        0w        0c http://10.10.88.200/img/http%3A%2F%2Fjeremiahgrossman => /img/http:/jeremiahgrossman
+301      GET        0l        0w        0c http://10.10.88.200/http%3A%2F%2Fweblog => /http:/weblog
+301      GET        0l        0w        0c http://10.10.88.200/img/http%3A%2F%2Fweblog => /img/http:/weblog
+301      GET        0l        0w        0c http://10.10.88.200/r/a/http%3A%2F%2Fjeremiahgrossman => /r/a/http:/jeremiahgrossman
+301      GET        0l        0w        0c http://10.10.88.200/r/http%3A%2F%2Fjeremiahgrossman => /r/http:/jeremiahgrossman
+301      GET        0l        0w        0c http://10.10.88.200/r/a/http%3A%2F%2Fweblog => /r/a/http:/weblog
+301      GET        0l        0w        0c http://10.10.88.200/r/http%3A%2F%2Fweblog => /r/http:/weblog
+301      GET        0l        0w        0c http://10.10.88.200/img/http%3A%2F%2Fswik => /img/http:/swik
+301      GET        0l        0w        0c http://10.10.88.200/http%3A%2F%2Fswik => /http:/swik
+301      GET        0l        0w        0c http://10.10.88.200/r/a/b/http%3A%2F%2Fjeremiahgrossman => /r/a/b/http:/jeremiahgrossman
