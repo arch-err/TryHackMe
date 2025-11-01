@@ -1,0 +1,12 @@
+# Nmap 7.95 scan initiated Tue Mar  4 14:50:13 2025 as: nmap -o "1 Enum/simple_scan.nmap" 10.10.76.45
+Nmap scan report for 10.10.76.45
+Host is up (0.081s latency).
+Not shown: 995 closed tcp ports (conn-refused)
+PORT     STATE    SERVICE
+22/tcp   open     ssh
+111/tcp  open     rpcbind
+3000/tcp open     ppp
+5000/tcp open     upnp
+9000/tcp filtered cslistener
+
+# Nmap done at Tue Mar  4 14:50:19 2025 -- 1 IP address (1 host up) scanned in 5.50 seconds

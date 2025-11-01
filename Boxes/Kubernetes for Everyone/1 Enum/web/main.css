@@ -1,0 +1,102 @@
+@import url("https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap");
+/* @import url("https://pastebin.com/cPs69B0y"); */
+@import url("https://fonts.googleapis.com/css2?family=Vollkorn:wght@500&display=swap");
+
+
+:root {
+  --yellow: #f1ca3b;
+  --black: #272727;
+  --blue: #664aff;
+  --black: #25252a;
+  --red: rgb(255, 0, 68);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--black);
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.title {
+  display: flex;
+  font-family: "Bowlby One SC", cursive;
+  color: rgb(255, 255, 61);
+  /* color: yellow; */
+  justify-content: center;
+  text-shadow: 2px 2px 2px black;
+  font-size: 60px;
+  margin: 20px 0px;
+}
+.slider-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.slider{
+  display: flex;
+  gap: 5px;
+}
+.min, .max {
+  font-size: 17px;
+  font-weight: bold;
+  color:rgb(255, 255, 61);
+}
+button {
+  color: white;
+  font-family: "Vollkorn", serif;
+  padding: 5px 45px;
+  background-color: var(--red);
+  border: none;
+  border-radius: 10px;
+  font-size: 20px;
+  box-shadow: 1px 1px 5px black;
+}
+.clickSetGrid{
+  margin-top: 20px;
+}
+
+.gridBox {
+  display: grid;
+  height: 550px;
+  width: 550px;
+  /* box-shadow: 2px 2px 2px black; */
+  gap: 1px;
+}
+.item {
+  background-color: rgb(255, 255, 61);
+}
+.touched {
+  background-color: var(--red);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 10px;
+}
+.reset-button
+{
+  font-size: 23px;
+}
+.reset-button:hover, .clickSetGrid:hover {
+  transform: scale(1.09);
+  transition: 0.1s linear;
+}
+.reset-button:active, .clickSetGrid:active {
+  transform: scale(1);
+  box-shadow: 1px 1px 3px black;
+}
+a{
+  color: aliceblue;
+}
