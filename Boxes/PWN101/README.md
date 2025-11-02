@@ -30,10 +30,6 @@ These are the things you're going to learn in this room:
 - Return to PLT
 - Playing with ROP
 
-#### Start the Machine
-
-If you feel you're ready to enter the land of pwn and pain click the Start Machine button to get started. Please allow around 5 minutes for all the challenges to become available.
-
 I hope you enjoy this room. Keep an eye out for more binary exploitation challenges in my next room.
 > [!IMPORTANT]
 > You're working with a Ubuntu 20.04 LTS VM, so there will be stack alignment issues, make sure to add a ret gadget to solve it.
@@ -51,6 +47,9 @@ Challenge is running on port 9001
 #### Answer the questions below
 Submit the flag: `THM{7h4t's_4n_3zy_oveRflowwwww}`
 
+#### Solution
+- [solve.py](./pwn101/solve.py)
+
 
 ### Task 3 - Challenge 2 - pwn102
 
@@ -58,6 +57,9 @@ Challenge is running on port 9002
 
 #### Answer the questions below
 Submit the flag: `THM{y3s_1_n33D_C0ff33_to_C0d3_<3}`
+
+#### Solution
+- [solve.py](./pwn102/solve.py)
 
 
 ### Task 4 - Challenge 3 - pwn103
@@ -67,12 +69,19 @@ Challenge is running on port 9003
 #### Answer the questions below
 Submit the flag: `THM{w3lC0m3_4Dm1N}`
 
+#### Solution
+- [solve.py](./pwn102/solve.py)
+
 
 ### Task 5 - Challenge 4 - pwn104
 
 Challenge is running on port 9004
 
 #### Answer the questions below
+Submit the flag: `<++>`
+
+#### Solution
+- [solve.py](./pwn102/solve.py)
 
 
 ### Task 6 - Challenge 5 - pwn105
@@ -82,6 +91,9 @@ Challenge is running on port 9005
 #### Answer the questions below
 Submit the flag: `<++>`
 
+#### Solution
+- [solve.py](./pwn102/solve.py)
+
 
 ### Task 7 - Challenge 6 - pwn106
 
@@ -89,6 +101,9 @@ Challenge is running on port 9006
 
 #### Answer the questions below
 Submit the flag: `<++>`
+
+#### Solution
+- [solve.py](./pwn102/solve.py)
 
 
 ### Task 8 - Challenge 7 - pwn107
@@ -98,6 +113,9 @@ Challenge is running on port 9007
 #### Answer the questions below
 Submit the flag: `<++>`
 
+#### Solution
+- [solve.py](./pwn102/solve.py)
+
 
 ### Task 9 - Challenge 8 - pwn108
 
@@ -105,6 +123,9 @@ Challenge is running on port 9008
 
 #### Answer the questions below
 Submit the flag: `<++>`
+
+#### Solution
+- [solve.py](./pwn102/solve.py)
 
 
 ### Task 10 - Challenge 9 - pwn109
@@ -114,6 +135,9 @@ Challenge is running on port 9009
 #### Answer the questions below
 Submit the flag: `<++>`
 
+#### Solution
+- [solve.py](./pwn102/solve.py)
+
 
 ### Task 11 - Challenge 10 - pwn110
 
@@ -121,3 +145,6 @@ Challenge is running on port 9010
 
 #### Answer the questions below
 Submit the flag: `<++>`
+
+#### Solution
+- [solve.py](./pwn102/solve.py)
