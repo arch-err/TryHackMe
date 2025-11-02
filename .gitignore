@@ -1,9 +1,7 @@
-Series/Wonderland/1. Wonderland/3 PrivEsc/alice2rabbit/persist/id_rsa
-Series/Wonderland/1. Wonderland/3 PrivEsc/alice2rabbit/persist/id_rsa.pub
-Series/Wonderland/2. Looking Glass/2 Exploit/id_rsa
-Series/Wonderland/2. Looking Glass/2 Exploit/id_rsa.pub
+./Boxes/ColdBox_Easy/2 Exploit/rockyou.txt
+Boxes/ColdBox: Easy/2 Exploit/rockyou.txt
 Boxes/ColdBox: Easy/2 Exploit/wpxploit
-Boxes/ColdBox: Easy/2 Exploit/wpxploit
+Boxes/ColdBox_Easy/2 Exploit/wpxploit
 Boxes/GamingServer/2 Exploit/CVE-2021-3156
 Boxes/GamingServer/3 PrivEsc/lxd-alpine-builder
 Boxes/GamingServer/4 Loot/secretKey
@@ -11,18 +9,23 @@ Boxes/GamingServer/Persistence/id_rsa
 Boxes/GamingServer/Persistence/id_rsa.pub
 Boxes/Ignite/3 PrivEsc/id_rsa
 Boxes/Ignite/3 PrivEsc/id_rsa.pub
-Boxes/Ignite/3 PrivEsc/test.pub
 Boxes/Ignite/3 PrivEsc/test
+Boxes/Ignite/3 PrivEsc/test.pub
 Boxes/LazyAdmin/Persistence/id_rsa
 Boxes/LazyAdmin/Persistence/id_rsa.pub
 Boxes/LazyAdmin/Persistence/test
 Boxes/LazyAdmin/Persistence/test.pub
+./Boxes/Overpass/2 Exploit/hydra.restore
+Boxes/Overpass/2 Exploit/hydra.restore
 Boxes/Overpass/2 Exploit/ssh.key
 Boxes/Overpass/4 Loot/ssh.key
 Boxes/Simple CTF/3 PrivEsc/root
 Boxes/Simple CTF/3 PrivEsc/root.pub
 Boxes/Simple CTF/3 PrivEsc/root.txt
-Boxes/Overpass/2 Exploit/hydra.restore
-Boxes/ColdBox: Easy/2 Exploit/rockyou.txt
+./Boxes/Year_of_the_Rabbit/4 Loot/RickRolled.mp4
 Boxes/Year of the Rabbit/4 Loot/RickRolled.mp4
+Series/Wonderland/1. Wonderland/3 PrivEsc/alice2rabbit/persist/id_rsa
+Series/Wonderland/1. Wonderland/3 PrivEsc/alice2rabbit/persist/id_rsa.pub
+Series/Wonderland/2. Looking Glass/2 Exploit/id_rsa
+Series/Wonderland/2. Looking Glass/2 Exploit/id_rsa.pub
 Series/Wonderland/2. Looking Glass/4 Loot/alice_rsa
